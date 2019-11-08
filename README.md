@@ -1,19 +1,16 @@
 # tailwind-tss-color-generator
 
 ## Disclaimer
-This is my first attempt at creating this utility. For now it has a small set of styles:
-- fontSize
-- color
-- backgroundColor
-- borderColor
-- borderWidth
-- borderRadius
-- opacity
+This is my first attempt at creating this utility. For now it has a small set of styles.
 
 I will gradually add more styles and try to match them as close as possible to Titanium's properties.
 
 ## What is this utility
 In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.com/) in your Titanium App, you can use this small converter to generate an app.tss file with the following styles:
+
+## Layout
+- ### Top / Right / Bottom / Left
+	- For any element that uses the 'top', 'right', 'bottom', 'left' properties.
 
 ## Typography
 - ### Font Size
@@ -38,6 +35,10 @@ In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.c
 
 - ### Border Radius
 	- For any element that uses the 'borderRadius' property.
+
+## Spacing
+- ### Margin
+	- For any element that uses the 'top', 'right', 'bottom', 'left' properties.
 
 ## Effects
 - ### Opacity
@@ -86,7 +87,6 @@ npm start
         </View>
     </Window>
 </Alloy>
-
 ```
 
 ## iOS Example

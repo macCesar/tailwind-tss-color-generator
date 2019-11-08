@@ -9,6 +9,9 @@
 	// Colors
 	convertedStyles += helpers.colors(defaultConfigTheme.colors);
 
+	// Object Position
+	convertedStyles += helpers.placement();
+
 	// Font Sizes
 	convertedStyles += helpers.fontSize(defaultConfigTheme.fontSize);
 
@@ -20,6 +23,9 @@
 
 	// Border Width
 	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);
+
+	// Spacing
+	convertedStyles += helpers.margin(defaultConfigTheme.spacing);
 
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);
