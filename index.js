@@ -26,17 +26,10 @@
 
 function saveFile(data) {
 	const fs = require('fs');
-	const path = require('path');
 
-	if (!fs.existsSync(path.join(__dirname, '/dist'))) {
-		fs.mkdirSync(path.join(__dirname, '/dist'), {}, err => {
-			throw err;
-		});
-	}
-
-	fs.writeFileSync(path.join(__dirname, '/dist', 'app.tss'), data, err => {
+	fs.writeFileSync('app.tss', data, err => {
 		throw err;
 	});
 
-	console.log('"app.tss" file created in "dist" Folder!');
+	console.log('"app.tss" file created!');
 }
