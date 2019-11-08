@@ -41,8 +41,8 @@ npm start
 	<Window class="bg-gray-200">
 		<View class="bg-blue-200 border-blue-600" height="200" left="10" right="10">
 			<View layout="vertical" height="Ti.UI.SIZE">
-				<Button class="text-indigo-600">This is a Indigo Button</Button>
-				<Label class="text-blue-700">This is an Blue Label</Label>
+				<Button class="text-indigo-600">This is an Indigo Button</Button>
+				<Label class="text-blue-700">This is a Blue Label</Label>
 			</View>
 		</View>
 	</Window>
@@ -50,7 +50,7 @@ npm start
 ```
 
 ## iOS Image
-![alt text](images/ios-sample-blue.png "Light Blue Sample")
+![alt text](images/light-blue-sample.png "Light Blue Sample")
 
 
 ### TODO
