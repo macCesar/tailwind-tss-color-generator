@@ -19,6 +19,9 @@ In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.c
 - ### Font Size
 	- For any element that uses the 'fontSize' property.
 
+- ### Text Align
+	- For any element that uses the 'textAlign' property.
+
 - ### Text Color
 	- For any element that uses the 'color' property.
 
@@ -69,18 +72,25 @@ npm start
 ```xml
 <Alloy>
     <Window class="bg-gray-200">
-        <View class="bg-blue-200 border-blue-600" height="200" left="10" right="10">
+        <View class="bg-blue-200 border-blue-600 rounded-lg" height="300" left="10" right="10">
             <View layout="vertical" height="Ti.UI.SIZE">
-                <Button class="text-indigo-600">This is an Indigo Button</Button>
-                <Label class="text-blue-700">This is a Blue Label</Label>
+                <Button class="text-indigo-700 text-base">This is an Indigo Button</Button>
+                <Button class="text-green-700 text-xl">This is an XL Green Button</Button>
+                <Label class="text-blue-700 text-2xl">This is a 2XL Blue Label</Label>
+
+                <View height="Ti.UI.SIZE" top="10" width="Ti.UI.SIZE" layout="horizontal">
+                    <Label class="border-blue-700 border-4 bg-gray-900 opacity-25 rounded-lg text-white text-center" width="200" height="50">Centered Text</Label>
+                    <Label class="border-blue-700 border-4 bg-gray-900 opacity-50 rounded-lg text-white text-center" width="200" height="50">Centered Text</Label>
+                </View>
             </View>
         </View>
     </Window>
 </Alloy>
+
 ```
 
 ## iOS Example
-![alt text](images/light-blue-sample.png "Light Blue Sample")
+![alt text](images/light-blue-centered.png "iOS Screen")
 
 ## TODO
 I'll try to convert more properties.

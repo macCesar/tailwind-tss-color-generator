@@ -1,7 +1,7 @@
 // Tailwind for Titanium
 // Converted by César Estrada
 
-// Tailwind Colors
+// Colors
 '.text-transparent':{color:'transparent'}
 '.text-black':{color:'#000'}
 '.text-white':{color:'#fff'}
@@ -295,6 +295,12 @@
 '.text-4xl':{font:{fontSize:36}}
 '.text-5xl':{font:{fontSize:48}}
 '.text-6xl':{font:{fontSize:64}}
+
+// Text Alignment
+'.text-left':{textAlign:Ti.UI.TEXT_ALIGNMENT_LEFT}
+'.text-center':{textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER}
+'.text-right':{textAlign:Ti.UI.TEXT_ALIGNMENT_RIGHT}
+'.text-justify':{textAlign:Ti.UI.TEXT_ALIGNMENT_JUSTIFY}
 
 // Border Radius
 '.rounded-none':{borderRadius:0}

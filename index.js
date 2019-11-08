@@ -12,6 +12,9 @@
 	// Font Sizes
 	convertedStyles += helpers.fontSize(defaultConfigTheme.fontSize);
 
+	// Text Align
+	convertedStyles += helpers.textAlign();
+
 	// Border Radius
 	convertedStyles += helpers.borderRadius(defaultConfigTheme.borderRadius);
 
