@@ -1,5 +1,5 @@
 // Tailwind Colors for Titanium Properties
-// Converted by César Estrada
+// Converted by César Estrada for https://github.com/macCesar/tailwind-tss-color-generator
 
 // text colors
 '.text-transparent':{color:'transparent'}
