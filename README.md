@@ -38,19 +38,19 @@ npm start
 ## Usage
 ```xml
 <Alloy>
-    <Window class="bg-purple-100">
-        <View class="bg-purple-400 border-purple-700" height="200" left="10" right="10">
-            <View layout="vertical" height="Ti.UI.SIZE">
-                <Button class="text-pink-900">This is a Pink Button</Button>
-                <Label class="text-indigo-900">This is an Indigo Label</Label>
-            </View>
-        </View>
-    </Window>
+	<Window class="bg-gray-200">
+		<View class="bg-blue-200 border-blue-600" height="200" left="10" right="10">
+			<View layout="vertical" height="Ti.UI.SIZE">
+				<Button class="text-indigo-600">This is a Indigo Button</Button>
+				<Label class="text-blue-700">This is an Blue Label</Label>
+			</View>
+		</View>
+	</Window>
 </Alloy>
 ```
 
 ## iOS Image
-![alt text](images/ios-sample-light.png "Logo Title Text 1")
+![alt text](images/ios-sample-blue.png "Light Blue Sample")
 
 
 ### TODO
