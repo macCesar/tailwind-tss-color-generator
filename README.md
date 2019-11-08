@@ -38,7 +38,7 @@ npm start
 ## Usage
 ```xml
 <Alloy>
-    <Window class="bg-purple-300">
+    <Window class="bg-purple-100">
         <View class="bg-purple-400 border-purple-700" height="200" left="10" right="10">
             <View layout="vertical" height="Ti.UI.SIZE">
                 <Button class="text-pink-900">This is a Pink Button</Button>
