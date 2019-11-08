@@ -1,35 +1,44 @@
 # tailwind-tss-color-generator
 
 ## Disclaimer
-This is my first attempt at creating this utility.
+This is my first attempt at creating this utility. For now it has a small set of styles:
+- fontSize
+- color
+- backgroundColor
+- borderColor
+- borderWidth
+- borderRadius
+- opacity
+
+I will gradually add more styles and try to match them as close as possible to Titanium's properties.
 
 ## What is this utility
-In case you need ( or want ) to use [tailwind's colors](https://tailwindcss.com/docs/customizing-colors/) in your Titanium App, you can use this small converter to generate an app.tss file with the following styles:
+In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.com/) in your Titanium App, you can use this small converter to generate an app.tss file with the following styles:
 
 ## Typography
-### Font Size
-	For any element that uses the 'fontSize' property.
+- ### Font Size
+	- For any element that uses the 'fontSize' property.
 
-### Text Color
-	For any element that uses the 'color' property.
+- ### Text Color
+	- For any element that uses the 'color' property.
 
 ## Backgrounds
-### Background Color
-	For any element that uses the 'backgroundColor' property.
+- ### Background Color
+	- For any element that uses the 'backgroundColor' property.
 
 ## Borders
-### Border Color
-	For any element that uses the 'borderColor' property.
+- ### Border Color
+	- For any element that uses the 'borderColor' property.
 
-### Border Width
-	For any element that uses the 'borderWidth' property.
+- ### Border Width
+	- For any element that uses the 'borderWidth' property.
 
-### Border Radius
-	For any element that uses the 'borderRadius' property.
+- ### Border Radius
+	- For any element that uses the 'borderRadius' property.
 
 ## Effects
-### Opacity
-	For any element that uses the 'opacity' property.
+- ### Opacity
+	- For any element that uses the 'opacity' property.
 
 ## Instalation
 Copy [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) to `/app/styles` directory, or add the contents manually.
@@ -52,7 +61,7 @@ npm install
 npm start
 ```
 
-5. The main script will generate a new app.tss.
+5. The main script will generate a new app.tss file.
 
 6. Copy the content of that file into your proyect's app.tss file.
 
