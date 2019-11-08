@@ -38,14 +38,14 @@ npm start
 ## Usage
 ```xml
 <Alloy>
-	<Window class="bg-gray-200">
-		<View class="bg-blue-200 border-blue-600" height="200" left="10" right="10">
-			<View layout="vertical" height="Ti.UI.SIZE">
-				<Button class="text-indigo-600">This is an Indigo Button</Button>
-				<Label class="text-blue-700">This is a Blue Label</Label>
-			</View>
-		</View>
-	</Window>
+    <Window class="bg-gray-200">
+        <View class="bg-blue-200 border-blue-600" height="200" left="10" right="10">
+            <View layout="vertical" height="Ti.UI.SIZE">
+                <Button class="text-indigo-600">This is an Indigo Button</Button>
+                <Label class="text-blue-700">This is a Blue Label</Label>
+            </View>
+        </View>
+    </Window>
 </Alloy>
 ```
 
