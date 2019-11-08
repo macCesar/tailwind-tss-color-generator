@@ -50,7 +50,7 @@ npm start
 ```
 
 ## iOS Image
-![alt text](images/ios-sample.png "Logo Title Text 1")
+![alt text](images/ios-sample-light.png "Logo Title Text 1")
 
 
 ### TODO
