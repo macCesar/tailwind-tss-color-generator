@@ -3,6 +3,7 @@
 ### Disclaimer
 This is my first attempt creating this utility.
 
+### What is this
 In case you need ( or want ) to use tailwind's colors in your Appcelerator Tianium App, you can use this small converter to generate an app.tss file with the following styles:
 
 ### text-colors
