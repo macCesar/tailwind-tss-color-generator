@@ -1,56 +1,33 @@
-const fs = require('fs');
-const path = require('path');
-const _ = require('underscore');
-const tailwindColors = require('tailwindcss/stubs/defaultConfig.stub').theme.colors;
-
 (function constructor() {
 	'use strict';
 
-	tailwindGenerator();
-}());
+	const helpers = require('./lib/helpers');
+	const defaultConfigTheme = require('tailwindcss/stubs/defaultConfig.stub').theme;
 
-function tailwindGenerator() {
+	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
 
-	const prefixAndPropierties = {
-		text: 'color',
-		bg: 'backgroundColor',
-		border: 'borderColor',
-		// extras
-		// bar: 'barColor',
-		// pin: 'pincolor',
-		// fill: 'fillColor',
-		// badge: 'badgeColor',
-		// light: 'lightColor',
-		// title: 'titleColor',
-		// marker: 'markerColor',
-		// shadow: 'shadowColor',
-		// stroke: 'strokeColor',
-		// navTint: 'navTintColor',
-		// touchFeedback: 'touchFeedbackColor',
-	};
+	// Colors
+	convertedStyles += helpers.colors(defaultConfigTheme.colors);
 
-	let convertedStyles = '// Tailwind Colors for Titanium Properties\n';
+	// Font Sizes
+	convertedStyles += helpers.fontSize(defaultConfigTheme.fontSize);
 
-	convertedStyles += '// Converted by César Estrada\n';
+	// Border Radius
+	convertedStyles += helpers.borderRadius(defaultConfigTheme.borderRadius);
 
-	_.each(prefixAndPropierties, (property, prefix) => {
-		convertedStyles += `\n// ${prefix} colors\n`;
+	// Border Width
+	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);
 
-		_.each(tailwindColors, (hexValue, name) => {
-			if (typeof hexValue === 'string') {
-				convertedStyles += `'.${prefix}-${name}':{${property}:'${hexValue}'}\n`;
-			} else {
-				_.each(hexValue, (shadeValue, shadeName) => {
-					convertedStyles += `'.${prefix}-${name}-${shadeName}':{${property}:'${shadeValue}'}\n`;
-				});
-			}
-		});
-	});
+	// Opacity
+	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);
 
 	saveFile(convertedStyles);
-}
+}());
 
 function saveFile(data) {
+	const fs = require('fs');
+	const path = require('path');
+
 	if (!fs.existsSync(path.join(__dirname, '/dist'))) {
 		fs.mkdirSync(path.join(__dirname, '/dist'), {}, err => {
 			throw err;
