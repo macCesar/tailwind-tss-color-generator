@@ -73,16 +73,17 @@ npm start
 ```xml
 <Alloy>
     <Window class="bg-gray-200">
-        <View class="bg-blue-200 border-blue-600 rounded-lg" height="300" left="10" right="10">
-            <View layout="vertical" height="Ti.UI.SIZE">
+        <View class="bg-blue-200 border-blue-600 rounded-lg border-4" height="300" left="10" right="10">
+            <View class="mt-6" layout="vertical" height="Ti.UI.SIZE">
                 <Button class="text-indigo-700 text-base">This is an Indigo Button</Button>
+
                 <Button class="text-green-700 text-xl">This is an XL Green Button</Button>
+
                 <Label class="text-blue-700 text-2xl">This is a 2XL Blue Label</Label>
 
-                <View height="Ti.UI.SIZE" top="10" width="Ti.UI.SIZE" layout="horizontal">
-                    <Label class="border-blue-700 border-4 bg-gray-900 opacity-25 rounded-lg text-white text-center" width="200" height="50">Centered Text</Label>
-                    <Label class="border-blue-700 border-4 bg-gray-900 opacity-50 rounded-lg text-white text-center" width="200" height="50">Centered Text</Label>
-                </View>
+                <Label class="border-blue-700 border-2 bg-gray-600 opacity-50 rounded-lg text-white text-center mt-4 ml-4" width="200" height="50">Centered Text</Label>
+
+                <Label class="border-blue-700 border-2 bg-gray-800 opacity-50 rounded-lg text-white text-center mt-4 mr-4" width="200" height="50">Centered Text</Label>
             </View>
         </View>
     </Window>
@@ -90,7 +91,7 @@ npm start
 ```
 
 ## iOS Example
-![alt text](images/light-blue-centered.png "iOS Screen")
+![alt text](images/position-spacing.png "iOS Screen")
 
 ## TODO
 I'll try to convert more properties.
