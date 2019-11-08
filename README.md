@@ -4,7 +4,7 @@
 This is my first attempt at creating this utility.
 
 ## What is this utility
-In case you need ( or want ) to use [tailwind's colors](https://tailwindcss.com/docs/customizing-colors/) in your Tianium App, you can use this small converter to generate an app.tss file with the following styles:
+In case you need ( or want ) to use [tailwind's colors](https://tailwindcss.com/docs/customizing-colors/) in your Titanium App, you can use this small converter to generate an app.tss file with the following styles:
 
 ### text-colors
 	For any element that uses the 'color' property.
