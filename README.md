@@ -52,11 +52,7 @@ npm start
 ## iOS Image
 ![alt text](images/light-blue-sample.png "Light Blue Sample")
 
-
-### TODO
-I'm starting with colors, but I'll try to convert more properties, maybe font sizes, widths and heights, shadows, etc.
-
-## Or just copy this generated styles 😉
+## Or just copy this generated styles to your app.tss file 😉
 ```css
 // Tailwind Colors for Titanium Properties
 // Converted by César Estrada
@@ -1182,3 +1178,6 @@ I'm starting with colors, but I'll try to convert more properties, maybe font si
     borderColor: '#702459'
 }
 ```
+
+### TODO
+I'm starting with colors, but I'll try to convert more properties, maybe font sizes, widths and heights, shadows, etc.
