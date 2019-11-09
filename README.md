@@ -80,8 +80,8 @@ npm start
 ```xml
 <Alloy>
     <Window class="bg-orange-100">
-        <View class="mx-3 bg-blue-200 border-blue-600 rounded-lg border-4" height="Ti.UI.SIZE">
-            <View layout="vertical" height="Ti.UI.SIZE">
+        <View class="h-auto mx-3 bg-blue-200 border-blue-600 rounded-lg border-4">
+            <View class="h-auto" layout="vertical">
 
                 <Button class="mt-3 text-indigo-700 text-base">This is an Indigo Button</Button>
 
