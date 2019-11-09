@@ -15,6 +15,12 @@
 	// Font Sizes
 	convertedStyles += helpers.fontSize(defaultConfigTheme.fontSize);
 
+	// Font Style ( iOS Only )
+	convertedStyles += helpers.fontStyle();
+
+	// Font Weight ( iOS Only )
+	convertedStyles += helpers.fontWeight();
+
 	// Text Align
 	convertedStyles += helpers.textAlign();
 

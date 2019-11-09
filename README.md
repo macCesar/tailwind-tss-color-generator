@@ -5,8 +5,8 @@ This is my first attempt at creating this utility. For now it has a small set of
 
 I will gradually add more styles and try to match them as close as possible to Titanium's properties.
 
-## What is this utility
-In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.com/) in your Titanium App, you can use this small converter to generate an app.tss file with the following styles:
+## What is this utility?
+In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in your [Titanium App](https://www.appcelerator.com/mobile-app-development-products/), you can use this small converter to generate an app.tss file with the following styles:
 
 ## Layout
 - ### Top / Right / Bottom / Left
@@ -15,6 +15,12 @@ In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.c
 ## Typography
 - ### Font Size
 	- For any element that uses the 'fontSize' property.
+
+- ### Font Style ( iOS Only )
+
+	- For any element that uses the 'fontStyle' property.
+- ### Font Weight ( iOS Only )
+	- For any element that uses the 'fontWeight' property.
 
 - ### Text Align
 	- For any element that uses the 'textAlign' property.

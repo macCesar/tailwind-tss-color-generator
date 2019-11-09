@@ -312,6 +312,21 @@
 '.text-5xl': { font: { fontSize: 48 } }
 '.text-6xl': { font: { fontSize: 64 } }
 
+// Font Style ( iOS Only )
+'.italic[platform=ios]': { font: { fontStyle: 'italic' } }
+'.not-italic[platform=ios]': { font: { fontStyle: 'normal' } }
+
+// Font Weight ( iOS Only )
+'.font-hairline[platform=ios]': { font: { fontWeight: 'ultralight' } }
+'.font-thin[platform=ios]': { font: { fontWeight: 'thin' } }
+'.font-light[platform=ios]': { font: { fontWeight: 'light' } }
+'.font-normal[platform=ios]': { font: { fontWeight: 'normal' } }
+'.font-medium[platform=ios]': { font: { fontWeight: 'normal' } }
+'.font-semibold[platform=ios]': { font: { fontWeight: 'semibold' } }
+'.font-bold[platform=ios]': { font: { fontWeight: 'bold' } }
+'.font-extrabold[platform=ios]': { font: { fontWeight: 'bold' } }
+'.font-black[platform=ios]': { font: { fontWeight: 'bold' } }
+
 // Text Alignment
 '.text-left': { textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT }
 '.text-center': { textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER }
