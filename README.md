@@ -40,6 +40,13 @@ In case you need ( or want ) to use [tailwind's framework](https://tailwindcss.c
 - ### Margin
 	- For any element that uses the 'top', 'right', 'bottom', 'left' properties.
 
+## Sizing
+- ### Width
+	- For any element that uses the 'width' property.
+
+- ### Height
+	- For any element that uses the 'height' property.
+
 ## Effects
 - ### Opacity
 	- For any element that uses the 'opacity' property.
@@ -72,18 +79,26 @@ npm start
 ## Usage
 ```xml
 <Alloy>
-    <Window class="bg-gray-200">
-        <View class="bg-blue-200 border-blue-600 rounded-lg border-4" height="300" left="10" right="10">
-            <View class="mt-6" layout="vertical" height="Ti.UI.SIZE">
-                <Button class="text-indigo-700 text-base">This is an Indigo Button</Button>
+    <Window class="bg-orange-100">
+        <View class="mx-3 bg-blue-200 border-blue-600 rounded-lg border-4" height="Ti.UI.SIZE">
+            <View layout="vertical" height="Ti.UI.SIZE">
 
-                <Button class="text-green-700 text-xl">This is an XL Green Button</Button>
+                <Button class="mt-3 text-indigo-700 text-base">This is an Indigo Button</Button>
+
+                <Button class="text-red-700 text-xl">This is an XL Red Button</Button>
 
                 <Label class="text-blue-700 text-2xl">This is a 2XL Blue Label</Label>
 
-                <Label class="border-blue-700 border-2 bg-gray-600 opacity-50 rounded-lg text-white text-center mt-4 ml-4" width="200" height="50">Centered Text</Label>
+                <Button class="w-1/2 h-10 mt-4 ml-4 border-blue-600 border-2 bg-blue-500 text-base text-white rounded-lg">ML-4 Button</Button>
 
-                <Label class="border-blue-700 border-2 bg-gray-800 opacity-50 rounded-lg text-white text-center mt-4 mr-4" width="200" height="50">Centered Text</Label>
+                <Button class="w-1/2 h-10 mt-4 mr-4 border-blue-800 border-2 bg-blue-700 text-base text-white rounded-lg">MR-4 Button</Button>
+
+                <View class="mt-4 mb-1 h-auto" layout="horizontal">
+                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-25">opacity-25</Label>
+                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-50">opacity-50</Label>
+                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-75">opacity-75</Label>
+                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-100">opacity-100</Label>
+                </View>
             </View>
         </View>
     </Window>
@@ -91,7 +106,7 @@ npm start
 ```
 
 ## iOS Example
-![alt text](images/position-spacing.png "iOS Screen")
+![alt text](images/widths-heights.png "iOS Screen")
 
 ## TODO
 I'll try to convert more properties.

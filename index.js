@@ -27,6 +27,10 @@
 	// Spacing
 	convertedStyles += helpers.margin(defaultConfigTheme.spacing);
 
+	// Sizing
+	convertedStyles += helpers.width(defaultConfigTheme.width(theme => ({ spacing: defaultConfigTheme.spacing })));
+	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: defaultConfigTheme.spacing })));
+
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);
 
