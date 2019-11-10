@@ -2,6 +2,7 @@
 	'use strict';
 
 	const helpers = require('./lib/helpers');
+
 	const defaultConfigTheme = require('tailwindcss/stubs/defaultConfig.stub').theme;
 
 	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
@@ -19,7 +20,7 @@
 	convertedStyles += helpers.fontStyle();
 
 	// Font Weight ( iOS Only )
-	convertedStyles += helpers.fontWeight();
+	convertedStyles += helpers.fontWeight(defaultConfigTheme.fontWeight);
 
 	// Text Align
 	convertedStyles += helpers.textAlign();
@@ -35,6 +36,7 @@
 
 	// Sizing
 	convertedStyles += helpers.width(defaultConfigTheme.width(theme => ({ spacing: defaultConfigTheme.spacing })));
+
 	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: defaultConfigTheme.spacing })));
 
 	// Opacity

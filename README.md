@@ -17,10 +17,13 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 	- For any element that uses the 'fontSize' property.
 
 - ### Font Style ( iOS Only )
-
 	- For any element that uses the 'fontStyle' property.
+
 - ### Font Weight ( iOS Only )
 	- For any element that uses the 'fontWeight' property.
+
+- ### Placeholder Color
+	- For any element that uses the 'hintTextColor' property.
 
 - ### Text Align
 	- For any element that uses the 'textAlign' property.

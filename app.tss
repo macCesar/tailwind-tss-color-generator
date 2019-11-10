@@ -284,21 +284,115 @@
 '.border-pink-800': { borderColor: '#97266d' }
 '.border-pink-900': { borderColor: '#702459' }
 
+'.placeholder-transparent': { hintTextColor: 'transparent' }
+'.placeholder-black': { hintTextColor: '#000' }
+'.placeholder-white': { hintTextColor: '#fff' }
+'.placeholder-gray-100': { hintTextColor: '#f7fafc' }
+'.placeholder-gray-200': { hintTextColor: '#edf2f7' }
+'.placeholder-gray-300': { hintTextColor: '#e2e8f0' }
+'.placeholder-gray-400': { hintTextColor: '#cbd5e0' }
+'.placeholder-gray-500': { hintTextColor: '#a0aec0' }
+'.placeholder-gray-600': { hintTextColor: '#718096' }
+'.placeholder-gray-700': { hintTextColor: '#4a5568' }
+'.placeholder-gray-800': { hintTextColor: '#2d3748' }
+'.placeholder-gray-900': { hintTextColor: '#1a202c' }
+'.placeholder-red-100': { hintTextColor: '#fff5f5' }
+'.placeholder-red-200': { hintTextColor: '#fed7d7' }
+'.placeholder-red-300': { hintTextColor: '#feb2b2' }
+'.placeholder-red-400': { hintTextColor: '#fc8181' }
+'.placeholder-red-500': { hintTextColor: '#f56565' }
+'.placeholder-red-600': { hintTextColor: '#e53e3e' }
+'.placeholder-red-700': { hintTextColor: '#c53030' }
+'.placeholder-red-800': { hintTextColor: '#9b2c2c' }
+'.placeholder-red-900': { hintTextColor: '#742a2a' }
+'.placeholder-orange-100': { hintTextColor: '#fffaf0' }
+'.placeholder-orange-200': { hintTextColor: '#feebc8' }
+'.placeholder-orange-300': { hintTextColor: '#fbd38d' }
+'.placeholder-orange-400': { hintTextColor: '#f6ad55' }
+'.placeholder-orange-500': { hintTextColor: '#ed8936' }
+'.placeholder-orange-600': { hintTextColor: '#dd6b20' }
+'.placeholder-orange-700': { hintTextColor: '#c05621' }
+'.placeholder-orange-800': { hintTextColor: '#9c4221' }
+'.placeholder-orange-900': { hintTextColor: '#7b341e' }
+'.placeholder-yellow-100': { hintTextColor: '#fffff0' }
+'.placeholder-yellow-200': { hintTextColor: '#fefcbf' }
+'.placeholder-yellow-300': { hintTextColor: '#faf089' }
+'.placeholder-yellow-400': { hintTextColor: '#f6e05e' }
+'.placeholder-yellow-500': { hintTextColor: '#ecc94b' }
+'.placeholder-yellow-600': { hintTextColor: '#d69e2e' }
+'.placeholder-yellow-700': { hintTextColor: '#b7791f' }
+'.placeholder-yellow-800': { hintTextColor: '#975a16' }
+'.placeholder-yellow-900': { hintTextColor: '#744210' }
+'.placeholder-green-100': { hintTextColor: '#f0fff4' }
+'.placeholder-green-200': { hintTextColor: '#c6f6d5' }
+'.placeholder-green-300': { hintTextColor: '#9ae6b4' }
+'.placeholder-green-400': { hintTextColor: '#68d391' }
+'.placeholder-green-500': { hintTextColor: '#48bb78' }
+'.placeholder-green-600': { hintTextColor: '#38a169' }
+'.placeholder-green-700': { hintTextColor: '#2f855a' }
+'.placeholder-green-800': { hintTextColor: '#276749' }
+'.placeholder-green-900': { hintTextColor: '#22543d' }
+'.placeholder-teal-100': { hintTextColor: '#e6fffa' }
+'.placeholder-teal-200': { hintTextColor: '#b2f5ea' }
+'.placeholder-teal-300': { hintTextColor: '#81e6d9' }
+'.placeholder-teal-400': { hintTextColor: '#4fd1c5' }
+'.placeholder-teal-500': { hintTextColor: '#38b2ac' }
+'.placeholder-teal-600': { hintTextColor: '#319795' }
+'.placeholder-teal-700': { hintTextColor: '#2c7a7b' }
+'.placeholder-teal-800': { hintTextColor: '#285e61' }
+'.placeholder-teal-900': { hintTextColor: '#234e52' }
+'.placeholder-blue-100': { hintTextColor: '#ebf8ff' }
+'.placeholder-blue-200': { hintTextColor: '#bee3f8' }
+'.placeholder-blue-300': { hintTextColor: '#90cdf4' }
+'.placeholder-blue-400': { hintTextColor: '#63b3ed' }
+'.placeholder-blue-500': { hintTextColor: '#4299e1' }
+'.placeholder-blue-600': { hintTextColor: '#3182ce' }
+'.placeholder-blue-700': { hintTextColor: '#2b6cb0' }
+'.placeholder-blue-800': { hintTextColor: '#2c5282' }
+'.placeholder-blue-900': { hintTextColor: '#2a4365' }
+'.placeholder-indigo-100': { hintTextColor: '#ebf4ff' }
+'.placeholder-indigo-200': { hintTextColor: '#c3dafe' }
+'.placeholder-indigo-300': { hintTextColor: '#a3bffa' }
+'.placeholder-indigo-400': { hintTextColor: '#7f9cf5' }
+'.placeholder-indigo-500': { hintTextColor: '#667eea' }
+'.placeholder-indigo-600': { hintTextColor: '#5a67d8' }
+'.placeholder-indigo-700': { hintTextColor: '#4c51bf' }
+'.placeholder-indigo-800': { hintTextColor: '#434190' }
+'.placeholder-indigo-900': { hintTextColor: '#3c366b' }
+'.placeholder-purple-100': { hintTextColor: '#faf5ff' }
+'.placeholder-purple-200': { hintTextColor: '#e9d8fd' }
+'.placeholder-purple-300': { hintTextColor: '#d6bcfa' }
+'.placeholder-purple-400': { hintTextColor: '#b794f4' }
+'.placeholder-purple-500': { hintTextColor: '#9f7aea' }
+'.placeholder-purple-600': { hintTextColor: '#805ad5' }
+'.placeholder-purple-700': { hintTextColor: '#6b46c1' }
+'.placeholder-purple-800': { hintTextColor: '#553c9a' }
+'.placeholder-purple-900': { hintTextColor: '#44337a' }
+'.placeholder-pink-100': { hintTextColor: '#fff5f7' }
+'.placeholder-pink-200': { hintTextColor: '#fed7e2' }
+'.placeholder-pink-300': { hintTextColor: '#fbb6ce' }
+'.placeholder-pink-400': { hintTextColor: '#f687b3' }
+'.placeholder-pink-500': { hintTextColor: '#ed64a6' }
+'.placeholder-pink-600': { hintTextColor: '#d53f8c' }
+'.placeholder-pink-700': { hintTextColor: '#b83280' }
+'.placeholder-pink-800': { hintTextColor: '#97266d' }
+'.placeholder-pink-900': { hintTextColor: '#702459' }
+
 // Top / Right / Bottom / Left
+'.top-0': { top: 0 }
+'.left-0': { left: 0 }
+'.right-0': { right: 0 }
+'.bottom-0': { bottom: 0 }
+'.top-auto': { top: null }
+'.left-auto': { left: null }
+'.right-auto': { right: null }
+'.bottom-auto': { bottom: null }
 '.inset-0': { top: 0, right: 0, bottom: 0, left: 0 }
 '.inset-y-0': { top: 0, bottom: 0 }
 '.inset-x-0': { right: 0, left: 0 }
-'.top-0': { top: 0 }
-'.right-0': { right: 0 }
-'.bottom-0': { bottom: 0 }
-'.left-0': { left: 0 }
 '.inset-auto': { top: null, right: null, bottom: null, left: null }
 '.inset-y-auto': { top: null, bottom: null }
 '.inset-x-auto': { right: null, left: null }
-'.top-auto': { top: null }
-'.bottom-auto': { bottom: null }
-'.left-auto': { left: null }
-'.right-auto': { right: null }
 
 // Font Sizes
 '.text-xs': { font: { fontSize: 12 } }
@@ -329,8 +423,8 @@
 
 // Text Alignment
 '.text-left': { textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT }
-'.text-center': { textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER }
 '.text-right': { textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT }
+'.text-center': { textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER }
 '.text-justify': { textAlign: Ti.UI.TEXT_ALIGNMENT_JUSTIFY }
 
 // Border Radius
