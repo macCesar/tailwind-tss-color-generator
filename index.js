@@ -7,6 +7,8 @@
 
 	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
 
+	// Reset Styles
+	convertedStyles += helpers.resetStyles();
 	// Colors
 	convertedStyles += helpers.colors(defaultConfigTheme.colors);
 
@@ -31,13 +33,19 @@
 	// Border Width
 	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);
 
-	// Spacing
+	// Margin
 	convertedStyles += helpers.margin(defaultConfigTheme.spacing);
+
+	// Padding
+	convertedStyles += helpers.padding(defaultConfigTheme.spacing);
 
 	// Sizing
 	convertedStyles += helpers.width(defaultConfigTheme.width(theme => ({ spacing: defaultConfigTheme.spacing })));
 
 	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: defaultConfigTheme.spacing })));
+
+	// Box Shadow ( iOS Only )
+	convertedStyles += helpers.shadow();
 
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);

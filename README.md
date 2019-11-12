@@ -10,55 +10,61 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 
 ## Layout
 - ### Top / Right / Bottom / Left
-	- For any element that uses the 'top', 'right', 'bottom', 'left' properties.
+	> For any element that uses the `'top'`, `'right'`, `'bottom'` and `'left'` properties.
 
 ## Typography
 - ### Font Size
-	- For any element that uses the 'fontSize' property.
+	> For any element that uses the `'fontSize'` property.
 
 - ### Font Style ( iOS Only )
-	- For any element that uses the 'fontStyle' property.
+	> For any element that uses the `'fontStyle'` property.
 
 - ### Font Weight ( iOS Only )
-	- For any element that uses the 'fontWeight' property.
+	> For any element that uses the `'fontWeight'` property.
 
 - ### Placeholder Color
-	- For any element that uses the 'hintTextColor' property.
+	> For any element that uses the `'hintTextColor'` property.
 
 - ### Text Align
-	- For any element that uses the 'textAlign' property.
+	> For any element that uses the `'textAlign'` property.
 
 - ### Text Color
-	- For any element that uses the 'color' property.
+	> For any element that uses the `'color'` property.
 
 ## Backgrounds
 - ### Background Color
-	- For any element that uses the 'backgroundColor' property.
+	> For any element that uses the `'backgroundColor'` property.
 
 ## Borders
 - ### Border Color
-	- For any element that uses the 'borderColor' property.
+	> For any element that uses the `'borderColor'` property.
 
 - ### Border Width
-	- For any element that uses the 'borderWidth' property.
+	> For any element that uses the `'borderWidth'` property.
 
 - ### Border Radius
-	- For any element that uses the 'borderRadius' property.
+	> For any element that uses the `'borderRadius'` property.
 
 ## Spacing
+- ### Padding
+	> For any element that uses the `'padding'` property.
+
 - ### Margin
-	- For any element that uses the 'top', 'right', 'bottom', 'left' properties.
+	> For any element that uses the `'top'`, `'right'`, `'bottom'`, `'left'` properties.
 
 ## Sizing
 - ### Width
-	- For any element that uses the 'width' property.
+	> For any element that uses the `'width'` property.
 
 - ### Height
-	- For any element that uses the 'height' property.
+	> For any element that uses the `'height'` property.
 
 ## Effects
+- ### Box Shadow ( iOS Only )
+	> For any element that uses the `'viewShadowOffset'`, `'viewShadowRadius'` and `'viewShadowColor'` properties.
+
 - ### Opacity
-	- For any element that uses the 'opacity' property.
+	> For any element that uses the `'opacity'` property.
 
 ## Instalation
 Copy [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) to `/app/styles` directory, or add the contents manually.
