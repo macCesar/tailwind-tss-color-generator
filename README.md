@@ -124,7 +124,7 @@ npm start
 ![alt text](images/widths-heights.png "iOS Screen")
 
 ## More Examples
-### These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), created to showcase all the styles from the generated [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) file.
+These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), created to showcase all the styles from the generated [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) file.
 
 ![alt text](images/customer-support.png "iOS Screen - Customer Support")
 
