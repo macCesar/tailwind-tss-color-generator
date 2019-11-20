@@ -7,8 +7,10 @@
 
 	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
 
-	// Reset Styles
+	// Reset Styles ( Preflight in Tailwind lingo )
+	// Some reseting has to be so everything else work as intented.
 	convertedStyles += helpers.resetStyles();
+
 	// Colors
 	convertedStyles += helpers.colors(defaultConfigTheme.colors);
 
@@ -29,6 +31,9 @@
 
 	// Border Radius
 	convertedStyles += helpers.borderRadius(defaultConfigTheme.borderRadius);
+
+	// Border Radius ( Extra Styles )
+	convertedStyles += helpers.borderRadiusExtraStyles(defaultConfigTheme.spacing);
 
 	// Border Width
 	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);

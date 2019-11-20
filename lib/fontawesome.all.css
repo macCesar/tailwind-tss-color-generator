@@ -1,0 +1,5577 @@
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
+'.fa-500px': {
+    title: '\uf26e',
+}
+
+'.fa-accessible-icon': {
+    title: '\uf368',
+}
+
+'.fa-accusoft': {
+    title: '\uf369',
+}
+
+'.fa-acquisitions-incorporated': {
+    title: '\uf6af',
+}
+
+'.fa-ad': {
+    title: '\uf641',
+}
+
+'.fa-address-book': {
+    title: '\uf2b9',
+}
+
+'.fa-address-card': {
+    title: '\uf2bb',
+}
+
+'.fa-adjust': {
+    title: '\uf042',
+}
+
+'.fa-adn': {
+    title: '\uf170',
+}
+
+'.fa-adobe': {
+    title: '\uf778',
+}
+
+'.fa-adversal': {
+    title: '\uf36a',
+}
+
+'.fa-affiliatetheme': {
+    title: '\uf36b',
+}
+
+'.fa-air-freshener': {
+    title: '\uf5d0',
+}
+
+'.fa-airbnb': {
+    title: '\uf834',
+}
+
+'.fa-algolia': {
+    title: '\uf36c',
+}
+
+'.fa-align-center': {
+    title: '\uf037',
+}
+
+'.fa-align-justify': {
+    title: '\uf039',
+}
+
+'.fa-align-left': {
+    title: '\uf036',
+}
+
+'.fa-align-right': {
+    title: '\uf038',
+}
+
+'.fa-alipay': {
+    title: '\uf642',
+}
+
+'.fa-allergies': {
+    title: '\uf461',
+}
+
+'.fa-amazon': {
+    title: '\uf270',
+}
+
+'.fa-amazon-pay': {
+    title: '\uf42c',
+}
+
+'.fa-ambulance': {
+    title: '\uf0f9',
+}
+
+'.fa-american-sign-language-interpreting': {
+    title: '\uf2a3',
+}
+
+'.fa-amilia': {
+    title: '\uf36d',
+}
+
+'.fa-anchor': {
+    title: '\uf13d',
+}
+
+'.fa-android': {
+    title: '\uf17b',
+}
+
+'.fa-angellist': {
+    title: '\uf209',
+}
+
+'.fa-angle-double-down': {
+    title: '\uf103',
+}
+
+'.fa-angle-double-left': {
+    title: '\uf100',
+}
+
+'.fa-angle-double-right': {
+    title: '\uf101',
+}
+
+'.fa-angle-double-up': {
+    title: '\uf102',
+}
+
+'.fa-angle-down': {
+    title: '\uf107',
+}
+
+'.fa-angle-left': {
+    title: '\uf104',
+}
+
+'.fa-angle-right': {
+    title: '\uf105',
+}
+
+'.fa-angle-up': {
+    title: '\uf106',
+}
+
+'.fa-angry': {
+    title: '\uf556',
+}
+
+'.fa-angrycreative': {
+    title: '\uf36e',
+}
+
+'.fa-angular': {
+    title: '\uf420',
+}
+
+'.fa-ankh': {
+    title: '\uf644',
+}
+
+'.fa-app-store': {
+    title: '\uf36f',
+}
+
+'.fa-app-store-ios': {
+    title: '\uf370',
+}
+
+'.fa-apper': {
+    title: '\uf371',
+}
+
+'.fa-apple': {
+    title: '\uf179',
+}
+
+'.fa-apple-alt': {
+    title: '\uf5d1',
+}
+
+'.fa-apple-pay': {
+    title: '\uf415',
+}
+
+'.fa-archive': {
+    title: '\uf187',
+}
+
+'.fa-archway': {
+    title: '\uf557',
+}
+
+'.fa-arrow-alt-circle-down': {
+    title: '\uf358',
+}
+
+'.fa-arrow-alt-circle-left': {
+    title: '\uf359',
+}
+
+'.fa-arrow-alt-circle-right': {
+    title: '\uf35a',
+}
+
+'.fa-arrow-alt-circle-up': {
+    title: '\uf35b',
+}
+
+'.fa-arrow-circle-down': {
+    title: '\uf0ab',
+}
+
+'.fa-arrow-circle-left': {
+    title: '\uf0a8',
+}
+
+'.fa-arrow-circle-right': {
+    title: '\uf0a9',
+}
+
+'.fa-arrow-circle-up': {
+    title: '\uf0aa',
+}
+
+'.fa-arrow-down': {
+    title: '\uf063',
+}
+
+'.fa-arrow-left': {
+    title: '\uf060',
+}
+
+'.fa-arrow-right': {
+    title: '\uf061',
+}
+
+'.fa-arrow-up': {
+    title: '\uf062',
+}
+
+'.fa-arrows-alt': {
+    title: '\uf0b2',
+}
+
+'.fa-arrows-alt-h': {
+    title: '\uf337',
+}
+
+'.fa-arrows-alt-v': {
+    title: '\uf338',
+}
+
+'.fa-artstation': {
+    title: '\uf77a',
+}
+
+'.fa-assistive-listening-systems': {
+    title: '\uf2a2',
+}
+
+'.fa-asterisk': {
+    title: '\uf069',
+}
+
+'.fa-asymmetrik': {
+    title: '\uf372',
+}
+
+'.fa-at': {
+    title: '\uf1fa',
+}
+
+'.fa-atlas': {
+    title: '\uf558',
+}
+
+'.fa-atlassian': {
+    title: '\uf77b',
+}
+
+'.fa-atom': {
+    title: '\uf5d2',
+}
+
+'.fa-audible': {
+    title: '\uf373',
+}
+
+'.fa-audio-description': {
+    title: '\uf29e',
+}
+
+'.fa-autoprefixer': {
+    title: '\uf41c',
+}
+
+'.fa-avianex': {
+    title: '\uf374',
+}
+
+'.fa-aviato': {
+    title: '\uf421',
+}
+
+'.fa-award': {
+    title: '\uf559',
+}
+
+'.fa-aws': {
+    title: '\uf375',
+}
+
+'.fa-baby': {
+    title: '\uf77c',
+}
+
+'.fa-baby-carriage': {
+    title: '\uf77d',
+}
+
+'.fa-backspace': {
+    title: '\uf55a',
+}
+
+'.fa-backward': {
+    title: '\uf04a',
+}
+
+'.fa-bacon': {
+    title: '\uf7e5',
+}
+
+'.fa-balance-scale': {
+    title: '\uf24e',
+}
+
+'.fa-balance-scale-left': {
+    title: '\uf515',
+}
+
+'.fa-balance-scale-right': {
+    title: '\uf516',
+}
+
+'.fa-ban': {
+    title: '\uf05e',
+}
+
+'.fa-band-aid': {
+    title: '\uf462',
+}
+
+'.fa-bandcamp': {
+    title: '\uf2d5',
+}
+
+'.fa-barcode': {
+    title: '\uf02a',
+}
+
+'.fa-bars': {
+    title: '\uf0c9',
+}
+
+'.fa-baseball-ball': {
+    title: '\uf433',
+}
+
+'.fa-basketball-ball': {
+    title: '\uf434',
+}
+
+'.fa-bath': {
+    title: '\uf2cd',
+}
+
+'.fa-battery-empty': {
+    title: '\uf244',
+}
+
+'.fa-battery-full': {
+    title: '\uf240',
+}
+
+'.fa-battery-half': {
+    title: '\uf242',
+}
+
+'.fa-battery-quarter': {
+    title: '\uf243',
+}
+
+'.fa-battery-three-quarters': {
+    title: '\uf241',
+}
+
+'.fa-battle-net': {
+    title: '\uf835',
+}
+
+'.fa-bed': {
+    title: '\uf236',
+}
+
+'.fa-beer': {
+    title: '\uf0fc',
+}
+
+'.fa-behance': {
+    title: '\uf1b4',
+}
+
+'.fa-behance-square': {
+    title: '\uf1b5',
+}
+
+'.fa-bell': {
+    title: '\uf0f3',
+}
+
+'.fa-bell-slash': {
+    title: '\uf1f6',
+}
+
+'.fa-bezier-curve': {
+    title: '\uf55b',
+}
+
+'.fa-bible': {
+    title: '\uf647',
+}
+
+'.fa-bicycle': {
+    title: '\uf206',
+}
+
+'.fa-biking': {
+    title: '\uf84a',
+}
+
+'.fa-bimobject': {
+    title: '\uf378',
+}
+
+'.fa-binoculars': {
+    title: '\uf1e5',
+}
+
+'.fa-biohazard': {
+    title: '\uf780',
+}
+
+'.fa-birthday-cake': {
+    title: '\uf1fd',
+}
+
+'.fa-bitbucket': {
+    title: '\uf171',
+}
+
+'.fa-bitcoin': {
+    title: '\uf379',
+}
+
+'.fa-bity': {
+    title: '\uf37a',
+}
+
+'.fa-black-tie': {
+    title: '\uf27e',
+}
+
+'.fa-blackberry': {
+    title: '\uf37b',
+}
+
+'.fa-blender': {
+    title: '\uf517',
+}
+
+'.fa-blender-phone': {
+    title: '\uf6b6',
+}
+
+'.fa-blind': {
+    title: '\uf29d',
+}
+
+'.fa-blog': {
+    title: '\uf781',
+}
+
+'.fa-blogger': {
+    title: '\uf37c',
+}
+
+'.fa-blogger-b': {
+    title: '\uf37d',
+}
+
+'.fa-bluetooth': {
+    title: '\uf293',
+}
+
+'.fa-bluetooth-b': {
+    title: '\uf294',
+}
+
+'.fa-bold': {
+    title: '\uf032',
+}
+
+'.fa-bolt': {
+    title: '\uf0e7',
+}
+
+'.fa-bomb': {
+    title: '\uf1e2',
+}
+
+'.fa-bone': {
+    title: '\uf5d7',
+}
+
+'.fa-bong': {
+    title: '\uf55c',
+}
+
+'.fa-book': {
+    title: '\uf02d',
+}
+
+'.fa-book-dead': {
+    title: '\uf6b7',
+}
+
+'.fa-book-medical': {
+    title: '\uf7e6',
+}
+
+'.fa-book-open': {
+    title: '\uf518',
+}
+
+'.fa-book-reader': {
+    title: '\uf5da',
+}
+
+'.fa-bookmark': {
+    title: '\uf02e',
+}
+
+'.fa-bootstrap': {
+    title: '\uf836',
+}
+
+'.fa-border-all': {
+    title: '\uf84c',
+}
+
+'.fa-border-none': {
+    title: '\uf850',
+}
+
+'.fa-border-style': {
+    title: '\uf853',
+}
+
+'.fa-bowling-ball': {
+    title: '\uf436',
+}
+
+'.fa-box': {
+    title: '\uf466',
+}
+
+'.fa-box-open': {
+    title: '\uf49e',
+}
+
+'.fa-boxes': {
+    title: '\uf468',
+}
+
+'.fa-braille': {
+    title: '\uf2a1',
+}
+
+'.fa-brain': {
+    title: '\uf5dc',
+}
+
+'.fa-bread-slice': {
+    title: '\uf7ec',
+}
+
+'.fa-briefcase': {
+    title: '\uf0b1',
+}
+
+'.fa-briefcase-medical': {
+    title: '\uf469',
+}
+
+'.fa-broadcast-tower': {
+    title: '\uf519',
+}
+
+'.fa-broom': {
+    title: '\uf51a',
+}
+
+'.fa-brush': {
+    title: '\uf55d',
+}
+
+'.fa-btc': {
+    title: '\uf15a',
+}
+
+'.fa-buffer': {
+    title: '\uf837',
+}
+
+'.fa-bug': {
+    title: '\uf188',
+}
+
+'.fa-building': {
+    title: '\uf1ad',
+}
+
+'.fa-bullhorn': {
+    title: '\uf0a1',
+}
+
+'.fa-bullseye': {
+    title: '\uf140',
+}
+
+'.fa-burn': {
+    title: '\uf46a',
+}
+
+'.fa-buromobelexperte': {
+    title: '\uf37f',
+}
+
+'.fa-bus': {
+    title: '\uf207',
+}
+
+'.fa-bus-alt': {
+    title: '\uf55e',
+}
+
+'.fa-business-time': {
+    title: '\uf64a',
+}
+
+'.fa-buy-n-large': {
+    title: '\uf8a6',
+}
+
+'.fa-buysellads': {
+    title: '\uf20d',
+}
+
+'.fa-calculator': {
+    title: '\uf1ec',
+}
+
+'.fa-calendar': {
+    title: '\uf133',
+}
+
+'.fa-calendar-alt': {
+    title: '\uf073',
+}
+
+'.fa-calendar-check': {
+    title: '\uf274',
+}
+
+'.fa-calendar-day': {
+    title: '\uf783',
+}
+
+'.fa-calendar-minus': {
+    title: '\uf272',
+}
+
+'.fa-calendar-plus': {
+    title: '\uf271',
+}
+
+'.fa-calendar-times': {
+    title: '\uf273',
+}
+
+'.fa-calendar-week': {
+    title: '\uf784',
+}
+
+'.fa-camera': {
+    title: '\uf030',
+}
+
+'.fa-camera-retro': {
+    title: '\uf083',
+}
+
+'.fa-campground': {
+    title: '\uf6bb',
+}
+
+'.fa-canadian-maple-leaf': {
+    title: '\uf785',
+}
+
+'.fa-candy-cane': {
+    title: '\uf786',
+}
+
+'.fa-cannabis': {
+    title: '\uf55f',
+}
+
+'.fa-capsules': {
+    title: '\uf46b',
+}
+
+'.fa-car': {
+    title: '\uf1b9',
+}
+
+'.fa-car-alt': {
+    title: '\uf5de',
+}
+
+'.fa-car-battery': {
+    title: '\uf5df',
+}
+
+'.fa-car-crash': {
+    title: '\uf5e1',
+}
+
+'.fa-car-side': {
+    title: '\uf5e4',
+}
+
+'.fa-caret-down': {
+    title: '\uf0d7',
+}
+
+'.fa-caret-left': {
+    title: '\uf0d9',
+}
+
+'.fa-caret-right': {
+    title: '\uf0da',
+}
+
+'.fa-caret-square-down': {
+    title: '\uf150',
+}
+
+'.fa-caret-square-left': {
+    title: '\uf191',
+}
+
+'.fa-caret-square-right': {
+    title: '\uf152',
+}
+
+'.fa-caret-square-up': {
+    title: '\uf151',
+}
+
+'.fa-caret-up': {
+    title: '\uf0d8',
+}
+
+'.fa-carrot': {
+    title: '\uf787',
+}
+
+'.fa-cart-arrow-down': {
+    title: '\uf218',
+}
+
+'.fa-cart-plus': {
+    title: '\uf217',
+}
+
+'.fa-cash-register': {
+    title: '\uf788',
+}
+
+'.fa-cat': {
+    title: '\uf6be',
+}
+
+'.fa-cc-amazon-pay': {
+    title: '\uf42d',
+}
+
+'.fa-cc-amex': {
+    title: '\uf1f3',
+}
+
+'.fa-cc-apple-pay': {
+    title: '\uf416',
+}
+
+'.fa-cc-diners-club': {
+    title: '\uf24c',
+}
+
+'.fa-cc-discover': {
+    title: '\uf1f2',
+}
+
+'.fa-cc-jcb': {
+    title: '\uf24b',
+}
+
+'.fa-cc-mastercard': {
+    title: '\uf1f1',
+}
+
+'.fa-cc-paypal': {
+    title: '\uf1f4',
+}
+
+'.fa-cc-stripe': {
+    title: '\uf1f5',
+}
+
+'.fa-cc-visa': {
+    title: '\uf1f0',
+}
+
+'.fa-centercode': {
+    title: '\uf380',
+}
+
+'.fa-centos': {
+    title: '\uf789',
+}
+
+'.fa-certificate': {
+    title: '\uf0a3',
+}
+
+'.fa-chair': {
+    title: '\uf6c0',
+}
+
+'.fa-chalkboard': {
+    title: '\uf51b',
+}
+
+'.fa-chalkboard-teacher': {
+    title: '\uf51c',
+}
+
+'.fa-charging-station': {
+    title: '\uf5e7',
+}
+
+'.fa-chart-area': {
+    title: '\uf1fe',
+}
+
+'.fa-chart-bar': {
+    title: '\uf080',
+}
+
+'.fa-chart-line': {
+    title: '\uf201',
+}
+
+'.fa-chart-pie': {
+    title: '\uf200',
+}
+
+'.fa-check': {
+    title: '\uf00c',
+}
+
+'.fa-check-circle': {
+    title: '\uf058',
+}
+
+'.fa-check-double': {
+    title: '\uf560',
+}
+
+'.fa-check-square': {
+    title: '\uf14a',
+}
+
+'.fa-cheese': {
+    title: '\uf7ef',
+}
+
+'.fa-chess': {
+    title: '\uf439',
+}
+
+'.fa-chess-bishop': {
+    title: '\uf43a',
+}
+
+'.fa-chess-board': {
+    title: '\uf43c',
+}
+
+'.fa-chess-king': {
+    title: '\uf43f',
+}
+
+'.fa-chess-knight': {
+    title: '\uf441',
+}
+
+'.fa-chess-pawn': {
+    title: '\uf443',
+}
+
+'.fa-chess-queen': {
+    title: '\uf445',
+}
+
+'.fa-chess-rook': {
+    title: '\uf447',
+}
+
+'.fa-chevron-circle-down': {
+    title: '\uf13a',
+}
+
+'.fa-chevron-circle-left': {
+    title: '\uf137',
+}
+
+'.fa-chevron-circle-right': {
+    title: '\uf138',
+}
+
+'.fa-chevron-circle-up': {
+    title: '\uf139',
+}
+
+'.fa-chevron-down': {
+    title: '\uf078',
+}
+
+'.fa-chevron-left': {
+    title: '\uf053',
+}
+
+'.fa-chevron-right': {
+    title: '\uf054',
+}
+
+'.fa-chevron-up': {
+    title: '\uf077',
+}
+
+'.fa-child': {
+    title: '\uf1ae',
+}
+
+'.fa-chrome': {
+    title: '\uf268',
+}
+
+'.fa-chromecast': {
+    title: '\uf838',
+}
+
+'.fa-church': {
+    title: '\uf51d',
+}
+
+'.fa-circle': {
+    title: '\uf111',
+}
+
+'.fa-circle-notch': {
+    title: '\uf1ce',
+}
+
+'.fa-city': {
+    title: '\uf64f',
+}
+
+'.fa-clinic-medical': {
+    title: '\uf7f2',
+}
+
+'.fa-clipboard': {
+    title: '\uf328',
+}
+
+'.fa-clipboard-check': {
+    title: '\uf46c',
+}
+
+'.fa-clipboard-list': {
+    title: '\uf46d',
+}
+
+'.fa-clock': {
+    title: '\uf017',
+}
+
+'.fa-clone': {
+    title: '\uf24d',
+}
+
+'.fa-closed-captioning': {
+    title: '\uf20a',
+}
+
+'.fa-cloud': {
+    title: '\uf0c2',
+}
+
+'.fa-cloud-download-alt': {
+    title: '\uf381',
+}
+
+'.fa-cloud-meatball': {
+    title: '\uf73b',
+}
+
+'.fa-cloud-moon': {
+    title: '\uf6c3',
+}
+
+'.fa-cloud-moon-rain': {
+    title: '\uf73c',
+}
+
+'.fa-cloud-rain': {
+    title: '\uf73d',
+}
+
+'.fa-cloud-showers-heavy': {
+    title: '\uf740',
+}
+
+'.fa-cloud-sun': {
+    title: '\uf6c4',
+}
+
+'.fa-cloud-sun-rain': {
+    title: '\uf743',
+}
+
+'.fa-cloud-upload-alt': {
+    title: '\uf382',
+}
+
+'.fa-cloudscale': {
+    title: '\uf383',
+}
+
+'.fa-cloudsmith': {
+    title: '\uf384',
+}
+
+'.fa-cloudversify': {
+    title: '\uf385',
+}
+
+'.fa-cocktail': {
+    title: '\uf561',
+}
+
+'.fa-code': {
+    title: '\uf121',
+}
+
+'.fa-code-branch': {
+    title: '\uf126',
+}
+
+'.fa-codepen': {
+    title: '\uf1cb',
+}
+
+'.fa-codiepie': {
+    title: '\uf284',
+}
+
+'.fa-coffee': {
+    title: '\uf0f4',
+}
+
+'.fa-cog': {
+    title: '\uf013',
+}
+
+'.fa-cogs': {
+    title: '\uf085',
+}
+
+'.fa-coins': {
+    title: '\uf51e',
+}
+
+'.fa-columns': {
+    title: '\uf0db',
+}
+
+'.fa-comment': {
+    title: '\uf075',
+}
+
+'.fa-comment-alt': {
+    title: '\uf27a',
+}
+
+'.fa-comment-dollar': {
+    title: '\uf651',
+}
+
+'.fa-comment-dots': {
+    title: '\uf4ad',
+}
+
+'.fa-comment-medical': {
+    title: '\uf7f5',
+}
+
+'.fa-comment-slash': {
+    title: '\uf4b3',
+}
+
+'.fa-comments': {
+    title: '\uf086',
+}
+
+'.fa-comments-dollar': {
+    title: '\uf653',
+}
+
+'.fa-compact-disc': {
+    title: '\uf51f',
+}
+
+'.fa-compass': {
+    title: '\uf14e',
+}
+
+'.fa-compress': {
+    title: '\uf066',
+}
+
+'.fa-compress-arrows-alt': {
+    title: '\uf78c',
+}
+
+'.fa-concierge-bell': {
+    title: '\uf562',
+}
+
+'.fa-confluence': {
+    title: '\uf78d',
+}
+
+'.fa-connectdevelop': {
+    title: '\uf20e',
+}
+
+'.fa-contao': {
+    title: '\uf26d',
+}
+
+'.fa-cookie': {
+    title: '\uf563',
+}
+
+'.fa-cookie-bite': {
+    title: '\uf564',
+}
+
+'.fa-copy': {
+    title: '\uf0c5',
+}
+
+'.fa-copyright': {
+    title: '\uf1f9',
+}
+
+'.fa-cotton-bureau': {
+    title: '\uf89e',
+}
+
+'.fa-couch': {
+    title: '\uf4b8',
+}
+
+'.fa-cpanel': {
+    title: '\uf388',
+}
+
+'.fa-creative-commons': {
+    title: '\uf25e',
+}
+
+'.fa-creative-commons-by': {
+    title: '\uf4e7',
+}
+
+'.fa-creative-commons-nc': {
+    title: '\uf4e8',
+}
+
+'.fa-creative-commons-nc-eu': {
+    title: '\uf4e9',
+}
+
+'.fa-creative-commons-nc-jp': {
+    title: '\uf4ea',
+}
+
+'.fa-creative-commons-nd': {
+    title: '\uf4eb',
+}
+
+'.fa-creative-commons-pd': {
+    title: '\uf4ec',
+}
+
+'.fa-creative-commons-pd-alt': {
+    title: '\uf4ed',
+}
+
+'.fa-creative-commons-remix': {
+    title: '\uf4ee',
+}
+
+'.fa-creative-commons-sa': {
+    title: '\uf4ef',
+}
+
+'.fa-creative-commons-sampling': {
+    title: '\uf4f0',
+}
+
+'.fa-creative-commons-sampling-plus': {
+    title: '\uf4f1',
+}
+
+'.fa-creative-commons-share': {
+    title: '\uf4f2',
+}
+
+'.fa-creative-commons-zero': {
+    title: '\uf4f3',
+}
+
+'.fa-credit-card': {
+    title: '\uf09d',
+}
+
+'.fa-critical-role': {
+    title: '\uf6c9',
+}
+
+'.fa-crop': {
+    title: '\uf125',
+}
+
+'.fa-crop-alt': {
+    title: '\uf565',
+}
+
+'.fa-cross': {
+    title: '\uf654',
+}
+
+'.fa-crosshairs': {
+    title: '\uf05b',
+}
+
+'.fa-crow': {
+    title: '\uf520',
+}
+
+'.fa-crown': {
+    title: '\uf521',
+}
+
+'.fa-crutch': {
+    title: '\uf7f7',
+}
+
+'.fa-css3': {
+    title: '\uf13c',
+}
+
+'.fa-css3-alt': {
+    title: '\uf38b',
+}
+
+'.fa-cube': {
+    title: '\uf1b2',
+}
+
+'.fa-cubes': {
+    title: '\uf1b3',
+}
+
+'.fa-cut': {
+    title: '\uf0c4',
+}
+
+'.fa-cuttlefish': {
+    title: '\uf38c',
+}
+
+'.fa-d-and-d': {
+    title: '\uf38d',
+}
+
+'.fa-d-and-d-beyond': {
+    title: '\uf6ca',
+}
+
+'.fa-dashcube': {
+    title: '\uf210',
+}
+
+'.fa-database': {
+    title: '\uf1c0',
+}
+
+'.fa-deaf': {
+    title: '\uf2a4',
+}
+
+'.fa-delicious': {
+    title: '\uf1a5',
+}
+
+'.fa-democrat': {
+    title: '\uf747',
+}
+
+'.fa-deploydog': {
+    title: '\uf38e',
+}
+
+'.fa-deskpro': {
+    title: '\uf38f',
+}
+
+'.fa-desktop': {
+    title: '\uf108',
+}
+
+'.fa-dev': {
+    title: '\uf6cc',
+}
+
+'.fa-deviantart': {
+    title: '\uf1bd',
+}
+
+'.fa-dharmachakra': {
+    title: '\uf655',
+}
+
+'.fa-dhl': {
+    title: '\uf790',
+}
+
+'.fa-diagnoses': {
+    title: '\uf470',
+}
+
+'.fa-diaspora': {
+    title: '\uf791',
+}
+
+'.fa-dice': {
+    title: '\uf522',
+}
+
+'.fa-dice-d20': {
+    title: '\uf6cf',
+}
+
+'.fa-dice-d6': {
+    title: '\uf6d1',
+}
+
+'.fa-dice-five': {
+    title: '\uf523',
+}
+
+'.fa-dice-four': {
+    title: '\uf524',
+}
+
+'.fa-dice-one': {
+    title: '\uf525',
+}
+
+'.fa-dice-six': {
+    title: '\uf526',
+}
+
+'.fa-dice-three': {
+    title: '\uf527',
+}
+
+'.fa-dice-two': {
+    title: '\uf528',
+}
+
+'.fa-digg': {
+    title: '\uf1a6',
+}
+
+'.fa-digital-ocean': {
+    title: '\uf391',
+}
+
+'.fa-digital-tachograph': {
+    title: '\uf566',
+}
+
+'.fa-directions': {
+    title: '\uf5eb',
+}
+
+'.fa-discord': {
+    title: '\uf392',
+}
+
+'.fa-discourse': {
+    title: '\uf393',
+}
+
+'.fa-divide': {
+    title: '\uf529',
+}
+
+'.fa-dizzy': {
+    title: '\uf567',
+}
+
+'.fa-dna': {
+    title: '\uf471',
+}
+
+'.fa-dochub': {
+    title: '\uf394',
+}
+
+'.fa-docker': {
+    title: '\uf395',
+}
+
+'.fa-dog': {
+    title: '\uf6d3',
+}
+
+'.fa-dollar-sign': {
+    title: '\uf155',
+}
+
+'.fa-dolly': {
+    title: '\uf472',
+}
+
+'.fa-dolly-flatbed': {
+    title: '\uf474',
+}
+
+'.fa-donate': {
+    title: '\uf4b9',
+}
+
+'.fa-door-closed': {
+    title: '\uf52a',
+}
+
+'.fa-door-open': {
+    title: '\uf52b',
+}
+
+'.fa-dot-circle': {
+    title: '\uf192',
+}
+
+'.fa-dove': {
+    title: '\uf4ba',
+}
+
+'.fa-download': {
+    title: '\uf019',
+}
+
+'.fa-draft2digital': {
+    title: '\uf396',
+}
+
+'.fa-drafting-compass': {
+    title: '\uf568',
+}
+
+'.fa-dragon': {
+    title: '\uf6d5',
+}
+
+'.fa-draw-polygon': {
+    title: '\uf5ee',
+}
+
+'.fa-dribbble': {
+    title: '\uf17d',
+}
+
+'.fa-dribbble-square': {
+    title: '\uf397',
+}
+
+'.fa-dropbox': {
+    title: '\uf16b',
+}
+
+'.fa-drum': {
+    title: '\uf569',
+}
+
+'.fa-drum-steelpan': {
+    title: '\uf56a',
+}
+
+'.fa-drumstick-bite': {
+    title: '\uf6d7',
+}
+
+'.fa-drupal': {
+    title: '\uf1a9',
+}
+
+'.fa-dumbbell': {
+    title: '\uf44b',
+}
+
+'.fa-dumpster': {
+    title: '\uf793',
+}
+
+'.fa-dumpster-fire': {
+    title: '\uf794',
+}
+
+'.fa-dungeon': {
+    title: '\uf6d9',
+}
+
+'.fa-dyalog': {
+    title: '\uf399',
+}
+
+'.fa-earlybirds': {
+    title: '\uf39a',
+}
+
+'.fa-ebay': {
+    title: '\uf4f4',
+}
+
+'.fa-edge': {
+    title: '\uf282',
+}
+
+'.fa-edit': {
+    title: '\uf044',
+}
+
+'.fa-egg': {
+    title: '\uf7fb',
+}
+
+'.fa-eject': {
+    title: '\uf052',
+}
+
+'.fa-elementor': {
+    title: '\uf430',
+}
+
+'.fa-ellipsis-h': {
+    title: '\uf141',
+}
+
+'.fa-ellipsis-v': {
+    title: '\uf142',
+}
+
+'.fa-ello': {
+    title: '\uf5f1',
+}
+
+'.fa-ember': {
+    title: '\uf423',
+}
+
+'.fa-empire': {
+    title: '\uf1d1',
+}
+
+'.fa-envelope': {
+    title: '\uf0e0',
+}
+
+'.fa-envelope-open': {
+    title: '\uf2b6',
+}
+
+'.fa-envelope-open-text': {
+    title: '\uf658',
+}
+
+'.fa-envelope-square': {
+    title: '\uf199',
+}
+
+'.fa-envira': {
+    title: '\uf299',
+}
+
+'.fa-equals': {
+    title: '\uf52c',
+}
+
+'.fa-eraser': {
+    title: '\uf12d',
+}
+
+'.fa-erlang': {
+    title: '\uf39d',
+}
+
+'.fa-ethereum': {
+    title: '\uf42e',
+}
+
+'.fa-ethernet': {
+    title: '\uf796',
+}
+
+'.fa-etsy': {
+    title: '\uf2d7',
+}
+
+'.fa-euro-sign': {
+    title: '\uf153',
+}
+
+'.fa-evernote': {
+    title: '\uf839',
+}
+
+'.fa-exchange-alt': {
+    title: '\uf362',
+}
+
+'.fa-exclamation': {
+    title: '\uf12a',
+}
+
+'.fa-exclamation-circle': {
+    title: '\uf06a',
+}
+
+'.fa-exclamation-triangle': {
+    title: '\uf071',
+}
+
+'.fa-expand': {
+    title: '\uf065',
+}
+
+'.fa-expand-arrows-alt': {
+    title: '\uf31e',
+}
+
+'.fa-expeditedssl': {
+    title: '\uf23e',
+}
+
+'.fa-external-link-alt': {
+    title: '\uf35d',
+}
+
+'.fa-external-link-square-alt': {
+    title: '\uf360',
+}
+
+'.fa-eye': {
+    title: '\uf06e',
+}
+
+'.fa-eye-dropper': {
+    title: '\uf1fb',
+}
+
+'.fa-eye-slash': {
+    title: '\uf070',
+}
+
+'.fa-facebook': {
+    title: '\uf09a',
+}
+
+'.fa-facebook-f': {
+    title: '\uf39e',
+}
+
+'.fa-facebook-messenger': {
+    title: '\uf39f',
+}
+
+'.fa-facebook-square': {
+    title: '\uf082',
+}
+
+'.fa-fan': {
+    title: '\uf863',
+}
+
+'.fa-fantasy-flight-games': {
+    title: '\uf6dc',
+}
+
+'.fa-fast-backward': {
+    title: '\uf049',
+}
+
+'.fa-fast-forward': {
+    title: '\uf050',
+}
+
+'.fa-fax': {
+    title: '\uf1ac',
+}
+
+'.fa-feather': {
+    title: '\uf52d',
+}
+
+'.fa-feather-alt': {
+    title: '\uf56b',
+}
+
+'.fa-fedex': {
+    title: '\uf797',
+}
+
+'.fa-fedora': {
+    title: '\uf798',
+}
+
+'.fa-female': {
+    title: '\uf182',
+}
+
+'.fa-fighter-jet': {
+    title: '\uf0fb',
+}
+
+'.fa-figma': {
+    title: '\uf799',
+}
+
+'.fa-file': {
+    title: '\uf15b',
+}
+
+'.fa-file-alt': {
+    title: '\uf15c',
+}
+
+'.fa-file-archive': {
+    title: '\uf1c6',
+}
+
+'.fa-file-audio': {
+    title: '\uf1c7',
+}
+
+'.fa-file-code': {
+    title: '\uf1c9',
+}
+
+'.fa-file-contract': {
+    title: '\uf56c',
+}
+
+'.fa-file-csv': {
+    title: '\uf6dd',
+}
+
+'.fa-file-download': {
+    title: '\uf56d',
+}
+
+'.fa-file-excel': {
+    title: '\uf1c3',
+}
+
+'.fa-file-export': {
+    title: '\uf56e',
+}
+
+'.fa-file-image': {
+    title: '\uf1c5',
+}
+
+'.fa-file-import': {
+    title: '\uf56f',
+}
+
+'.fa-file-invoice': {
+    title: '\uf570',
+}
+
+'.fa-file-invoice-dollar': {
+    title: '\uf571',
+}
+
+'.fa-file-medical': {
+    title: '\uf477',
+}
+
+'.fa-file-medical-alt': {
+    title: '\uf478',
+}
+
+'.fa-file-pdf': {
+    title: '\uf1c1',
+}
+
+'.fa-file-powerpoint': {
+    title: '\uf1c4',
+}
+
+'.fa-file-prescription': {
+    title: '\uf572',
+}
+
+'.fa-file-signature': {
+    title: '\uf573',
+}
+
+'.fa-file-upload': {
+    title: '\uf574',
+}
+
+'.fa-file-video': {
+    title: '\uf1c8',
+}
+
+'.fa-file-word': {
+    title: '\uf1c2',
+}
+
+'.fa-fill': {
+    title: '\uf575',
+}
+
+'.fa-fill-drip': {
+    title: '\uf576',
+}
+
+'.fa-film': {
+    title: '\uf008',
+}
+
+'.fa-filter': {
+    title: '\uf0b0',
+}
+
+'.fa-fingerprint': {
+    title: '\uf577',
+}
+
+'.fa-fire': {
+    title: '\uf06d',
+}
+
+'.fa-fire-alt': {
+    title: '\uf7e4',
+}
+
+'.fa-fire-extinguisher': {
+    title: '\uf134',
+}
+
+'.fa-firefox': {
+    title: '\uf269',
+}
+
+'.fa-first-aid': {
+    title: '\uf479',
+}
+
+'.fa-first-order': {
+    title: '\uf2b0',
+}
+
+'.fa-first-order-alt': {
+    title: '\uf50a',
+}
+
+'.fa-firstdraft': {
+    title: '\uf3a1',
+}
+
+'.fa-fish': {
+    title: '\uf578',
+}
+
+'.fa-fist-raised': {
+    title: '\uf6de',
+}
+
+'.fa-flag': {
+    title: '\uf024',
+}
+
+'.fa-flag-checkered': {
+    title: '\uf11e',
+}
+
+'.fa-flag-usa': {
+    title: '\uf74d',
+}
+
+'.fa-flask': {
+    title: '\uf0c3',
+}
+
+'.fa-flickr': {
+    title: '\uf16e',
+}
+
+'.fa-flipboard': {
+    title: '\uf44d',
+}
+
+'.fa-flushed': {
+    title: '\uf579',
+}
+
+'.fa-fly': {
+    title: '\uf417',
+}
+
+'.fa-folder': {
+    title: '\uf07b',
+}
+
+'.fa-folder-minus': {
+    title: '\uf65d',
+}
+
+'.fa-folder-open': {
+    title: '\uf07c',
+}
+
+'.fa-folder-plus': {
+    title: '\uf65e',
+}
+
+'.fa-font': {
+    title: '\uf031',
+}
+
+'.fa-font-awesome': {
+    title: '\uf2b4',
+}
+
+'.fa-font-awesome-alt': {
+    title: '\uf35c',
+}
+
+'.fa-font-awesome-flag': {
+    title: '\uf425',
+}
+
+'.fa-font-awesome-logo-full': {
+    title: '\uf4e6',
+}
+
+'.fa-fonticons': {
+    title: '\uf280',
+}
+
+'.fa-fonticons-fi': {
+    title: '\uf3a2',
+}
+
+'.fa-football-ball': {
+    title: '\uf44e',
+}
+
+'.fa-fort-awesome': {
+    title: '\uf286',
+}
+
+'.fa-fort-awesome-alt': {
+    title: '\uf3a3',
+}
+
+'.fa-forumbee': {
+    title: '\uf211',
+}
+
+'.fa-forward': {
+    title: '\uf04e',
+}
+
+'.fa-foursquare': {
+    title: '\uf180',
+}
+
+'.fa-free-code-camp': {
+    title: '\uf2c5',
+}
+
+'.fa-freebsd': {
+    title: '\uf3a4',
+}
+
+'.fa-frog': {
+    title: '\uf52e',
+}
+
+'.fa-frown': {
+    title: '\uf119',
+}
+
+'.fa-frown-open': {
+    title: '\uf57a',
+}
+
+'.fa-fulcrum': {
+    title: '\uf50b',
+}
+
+'.fa-funnel-dollar': {
+    title: '\uf662',
+}
+
+'.fa-futbol': {
+    title: '\uf1e3',
+}
+
+'.fa-galactic-republic': {
+    title: '\uf50c',
+}
+
+'.fa-galactic-senate': {
+    title: '\uf50d',
+}
+
+'.fa-gamepad': {
+    title: '\uf11b',
+}
+
+'.fa-gas-pump': {
+    title: '\uf52f',
+}
+
+'.fa-gavel': {
+    title: '\uf0e3',
+}
+
+'.fa-gem': {
+    title: '\uf3a5',
+}
+
+'.fa-genderless': {
+    title: '\uf22d',
+}
+
+'.fa-get-pocket': {
+    title: '\uf265',
+}
+
+'.fa-gg': {
+    title: '\uf260',
+}
+
+'.fa-gg-circle': {
+    title: '\uf261',
+}
+
+'.fa-ghost': {
+    title: '\uf6e2',
+}
+
+'.fa-gift': {
+    title: '\uf06b',
+}
+
+'.fa-gifts': {
+    title: '\uf79c',
+}
+
+'.fa-git': {
+    title: '\uf1d3',
+}
+
+'.fa-git-alt': {
+    title: '\uf841',
+}
+
+'.fa-git-square': {
+    title: '\uf1d2',
+}
+
+'.fa-github': {
+    title: '\uf09b',
+}
+
+'.fa-github-alt': {
+    title: '\uf113',
+}
+
+'.fa-github-square': {
+    title: '\uf092',
+}
+
+'.fa-gitkraken': {
+    title: '\uf3a6',
+}
+
+'.fa-gitlab': {
+    title: '\uf296',
+}
+
+'.fa-gitter': {
+    title: '\uf426',
+}
+
+'.fa-glass-cheers': {
+    title: '\uf79f',
+}
+
+'.fa-glass-martini': {
+    title: '\uf000',
+}
+
+'.fa-glass-martini-alt': {
+    title: '\uf57b',
+}
+
+'.fa-glass-whiskey': {
+    title: '\uf7a0',
+}
+
+'.fa-glasses': {
+    title: '\uf530',
+}
+
+'.fa-glide': {
+    title: '\uf2a5',
+}
+
+'.fa-glide-g': {
+    title: '\uf2a6',
+}
+
+'.fa-globe': {
+    title: '\uf0ac',
+}
+
+'.fa-globe-africa': {
+    title: '\uf57c',
+}
+
+'.fa-globe-americas': {
+    title: '\uf57d',
+}
+
+'.fa-globe-asia': {
+    title: '\uf57e',
+}
+
+'.fa-globe-europe': {
+    title: '\uf7a2',
+}
+
+'.fa-gofore': {
+    title: '\uf3a7',
+}
+
+'.fa-golf-ball': {
+    title: '\uf450',
+}
+
+'.fa-goodreads': {
+    title: '\uf3a8',
+}
+
+'.fa-goodreads-g': {
+    title: '\uf3a9',
+}
+
+'.fa-google': {
+    title: '\uf1a0',
+}
+
+'.fa-google-drive': {
+    title: '\uf3aa',
+}
+
+'.fa-google-play': {
+    title: '\uf3ab',
+}
+
+'.fa-google-plus': {
+    title: '\uf2b3',
+}
+
+'.fa-google-plus-g': {
+    title: '\uf0d5',
+}
+
+'.fa-google-plus-square': {
+    title: '\uf0d4',
+}
+
+'.fa-google-wallet': {
+    title: '\uf1ee',
+}
+
+'.fa-gopuram': {
+    title: '\uf664',
+}
+
+'.fa-graduation-cap': {
+    title: '\uf19d',
+}
+
+'.fa-gratipay': {
+    title: '\uf184',
+}
+
+'.fa-grav': {
+    title: '\uf2d6',
+}
+
+'.fa-greater-than': {
+    title: '\uf531',
+}
+
+'.fa-greater-than-equal': {
+    title: '\uf532',
+}
+
+'.fa-grimace': {
+    title: '\uf57f',
+}
+
+'.fa-grin': {
+    title: '\uf580',
+}
+
+'.fa-grin-alt': {
+    title: '\uf581',
+}
+
+'.fa-grin-beam': {
+    title: '\uf582',
+}
+
+'.fa-grin-beam-sweat': {
+    title: '\uf583',
+}
+
+'.fa-grin-hearts': {
+    title: '\uf584',
+}
+
+'.fa-grin-squint': {
+    title: '\uf585',
+}
+
+'.fa-grin-squint-tears': {
+    title: '\uf586',
+}
+
+'.fa-grin-stars': {
+    title: '\uf587',
+}
+
+'.fa-grin-tears': {
+    title: '\uf588',
+}
+
+'.fa-grin-tongue': {
+    title: '\uf589',
+}
+
+'.fa-grin-tongue-squint': {
+    title: '\uf58a',
+}
+
+'.fa-grin-tongue-wink': {
+    title: '\uf58b',
+}
+
+'.fa-grin-wink': {
+    title: '\uf58c',
+}
+
+'.fa-grip-horizontal': {
+    title: '\uf58d',
+}
+
+'.fa-grip-lines': {
+    title: '\uf7a4',
+}
+
+'.fa-grip-lines-vertical': {
+    title: '\uf7a5',
+}
+
+'.fa-grip-vertical': {
+    title: '\uf58e',
+}
+
+'.fa-gripfire': {
+    title: '\uf3ac',
+}
+
+'.fa-grunt': {
+    title: '\uf3ad',
+}
+
+'.fa-guitar': {
+    title: '\uf7a6',
+}
+
+'.fa-gulp': {
+    title: '\uf3ae',
+}
+
+'.fa-h-square': {
+    title: '\uf0fd',
+}
+
+'.fa-hacker-news': {
+    title: '\uf1d4',
+}
+
+'.fa-hacker-news-square': {
+    title: '\uf3af',
+}
+
+'.fa-hackerrank': {
+    title: '\uf5f7',
+}
+
+'.fa-hamburger': {
+    title: '\uf805',
+}
+
+'.fa-hammer': {
+    title: '\uf6e3',
+}
+
+'.fa-hamsa': {
+    title: '\uf665',
+}
+
+'.fa-hand-holding': {
+    title: '\uf4bd',
+}
+
+'.fa-hand-holding-heart': {
+    title: '\uf4be',
+}
+
+'.fa-hand-holding-usd': {
+    title: '\uf4c0',
+}
+
+'.fa-hand-lizard': {
+    title: '\uf258',
+}
+
+'.fa-hand-middle-finger': {
+    title: '\uf806',
+}
+
+'.fa-hand-paper': {
+    title: '\uf256',
+}
+
+'.fa-hand-peace': {
+    title: '\uf25b',
+}
+
+'.fa-hand-point-down': {
+    title: '\uf0a7',
+}
+
+'.fa-hand-point-left': {
+    title: '\uf0a5',
+}
+
+'.fa-hand-point-right': {
+    title: '\uf0a4',
+}
+
+'.fa-hand-point-up': {
+    title: '\uf0a6',
+}
+
+'.fa-hand-pointer': {
+    title: '\uf25a',
+}
+
+'.fa-hand-rock': {
+    title: '\uf255',
+}
+
+'.fa-hand-scissors': {
+    title: '\uf257',
+}
+
+'.fa-hand-spock': {
+    title: '\uf259',
+}
+
+'.fa-hands': {
+    title: '\uf4c2',
+}
+
+'.fa-hands-helping': {
+    title: '\uf4c4',
+}
+
+'.fa-handshake': {
+    title: '\uf2b5',
+}
+
+'.fa-hanukiah': {
+    title: '\uf6e6',
+}
+
+'.fa-hard-hat': {
+    title: '\uf807',
+}
+
+'.fa-hashtag': {
+    title: '\uf292',
+}
+
+'.fa-hat-cowboy': {
+    title: '\uf8c0',
+}
+
+'.fa-hat-cowboy-side': {
+    title: '\uf8c1',
+}
+
+'.fa-hat-wizard': {
+    title: '\uf6e8',
+}
+
+'.fa-haykal': {
+    title: '\uf666',
+}
+
+'.fa-hdd': {
+    title: '\uf0a0',
+}
+
+'.fa-heading': {
+    title: '\uf1dc',
+}
+
+'.fa-headphones': {
+    title: '\uf025',
+}
+
+'.fa-headphones-alt': {
+    title: '\uf58f',
+}
+
+'.fa-headset': {
+    title: '\uf590',
+}
+
+'.fa-heart': {
+    title: '\uf004',
+}
+
+'.fa-heart-broken': {
+    title: '\uf7a9',
+}
+
+'.fa-heartbeat': {
+    title: '\uf21e',
+}
+
+'.fa-helicopter': {
+    title: '\uf533',
+}
+
+'.fa-highlighter': {
+    title: '\uf591',
+}
+
+'.fa-hiking': {
+    title: '\uf6ec',
+}
+
+'.fa-hippo': {
+    title: '\uf6ed',
+}
+
+'.fa-hips': {
+    title: '\uf452',
+}
+
+'.fa-hire-a-helper': {
+    title: '\uf3b0',
+}
+
+'.fa-history': {
+    title: '\uf1da',
+}
+
+'.fa-hockey-puck': {
+    title: '\uf453',
+}
+
+'.fa-holly-berry': {
+    title: '\uf7aa',
+}
+
+'.fa-home': {
+    title: '\uf015',
+}
+
+'.fa-hooli': {
+    title: '\uf427',
+}
+
+'.fa-hornbill': {
+    title: '\uf592',
+}
+
+'.fa-horse': {
+    title: '\uf6f0',
+}
+
+'.fa-horse-head': {
+    title: '\uf7ab',
+}
+
+'.fa-hospital': {
+    title: '\uf0f8',
+}
+
+'.fa-hospital-alt': {
+    title: '\uf47d',
+}
+
+'.fa-hospital-symbol': {
+    title: '\uf47e',
+}
+
+'.fa-hot-tub': {
+    title: '\uf593',
+}
+
+'.fa-hotdog': {
+    title: '\uf80f',
+}
+
+'.fa-hotel': {
+    title: '\uf594',
+}
+
+'.fa-hotjar': {
+    title: '\uf3b1',
+}
+
+'.fa-hourglass': {
+    title: '\uf254',
+}
+
+'.fa-hourglass-end': {
+    title: '\uf253',
+}
+
+'.fa-hourglass-half': {
+    title: '\uf252',
+}
+
+'.fa-hourglass-start': {
+    title: '\uf251',
+}
+
+'.fa-house-damage': {
+    title: '\uf6f1',
+}
+
+'.fa-houzz': {
+    title: '\uf27c',
+}
+
+'.fa-hryvnia': {
+    title: '\uf6f2',
+}
+
+'.fa-html5': {
+    title: '\uf13b',
+}
+
+'.fa-hubspot': {
+    title: '\uf3b2',
+}
+
+'.fa-i-cursor': {
+    title: '\uf246',
+}
+
+'.fa-ice-cream': {
+    title: '\uf810',
+}
+
+'.fa-icicles': {
+    title: '\uf7ad',
+}
+
+'.fa-icons': {
+    title: '\uf86d',
+}
+
+'.fa-id-badge': {
+    title: '\uf2c1',
+}
+
+'.fa-id-card': {
+    title: '\uf2c2',
+}
+
+'.fa-id-card-alt': {
+    title: '\uf47f',
+}
+
+'.fa-igloo': {
+    title: '\uf7ae',
+}
+
+'.fa-image': {
+    title: '\uf03e',
+}
+
+'.fa-images': {
+    title: '\uf302',
+}
+
+'.fa-imdb': {
+    title: '\uf2d8',
+}
+
+'.fa-inbox': {
+    title: '\uf01c',
+}
+
+'.fa-indent': {
+    title: '\uf03c',
+}
+
+'.fa-industry': {
+    title: '\uf275',
+}
+
+'.fa-infinity': {
+    title: '\uf534',
+}
+
+'.fa-info': {
+    title: '\uf129',
+}
+
+'.fa-info-circle': {
+    title: '\uf05a',
+}
+
+'.fa-instagram': {
+    title: '\uf16d',
+}
+
+'.fa-intercom': {
+    title: '\uf7af',
+}
+
+'.fa-internet-explorer': {
+    title: '\uf26b',
+}
+
+'.fa-invision': {
+    title: '\uf7b0',
+}
+
+'.fa-ioxhost': {
+    title: '\uf208',
+}
+
+'.fa-italic': {
+    title: '\uf033',
+}
+
+'.fa-itch-io': {
+    title: '\uf83a',
+}
+
+'.fa-itunes': {
+    title: '\uf3b4',
+}
+
+'.fa-itunes-note': {
+    title: '\uf3b5',
+}
+
+'.fa-java': {
+    title: '\uf4e4',
+}
+
+'.fa-jedi': {
+    title: '\uf669',
+}
+
+'.fa-jedi-order': {
+    title: '\uf50e',
+}
+
+'.fa-jenkins': {
+    title: '\uf3b6',
+}
+
+'.fa-jira': {
+    title: '\uf7b1',
+}
+
+'.fa-joget': {
+    title: '\uf3b7',
+}
+
+'.fa-joint': {
+    title: '\uf595',
+}
+
+'.fa-joomla': {
+    title: '\uf1aa',
+}
+
+'.fa-journal-whills': {
+    title: '\uf66a',
+}
+
+'.fa-js': {
+    title: '\uf3b8',
+}
+
+'.fa-js-square': {
+    title: '\uf3b9',
+}
+
+'.fa-jsfiddle': {
+    title: '\uf1cc',
+}
+
+'.fa-kaaba': {
+    title: '\uf66b',
+}
+
+'.fa-kaggle': {
+    title: '\uf5fa',
+}
+
+'.fa-key': {
+    title: '\uf084',
+}
+
+'.fa-keybase': {
+    title: '\uf4f5',
+}
+
+'.fa-keyboard': {
+    title: '\uf11c',
+}
+
+'.fa-keycdn': {
+    title: '\uf3ba',
+}
+
+'.fa-khanda': {
+    title: '\uf66d',
+}
+
+'.fa-kickstarter': {
+    title: '\uf3bb',
+}
+
+'.fa-kickstarter-k': {
+    title: '\uf3bc',
+}
+
+'.fa-kiss': {
+    title: '\uf596',
+}
+
+'.fa-kiss-beam': {
+    title: '\uf597',
+}
+
+'.fa-kiss-wink-heart': {
+    title: '\uf598',
+}
+
+'.fa-kiwi-bird': {
+    title: '\uf535',
+}
+
+'.fa-korvue': {
+    title: '\uf42f',
+}
+
+'.fa-landmark': {
+    title: '\uf66f',
+}
+
+'.fa-language': {
+    title: '\uf1ab',
+}
+
+'.fa-laptop': {
+    title: '\uf109',
+}
+
+'.fa-laptop-code': {
+    title: '\uf5fc',
+}
+
+'.fa-laptop-medical': {
+    title: '\uf812',
+}
+
+'.fa-laravel': {
+    title: '\uf3bd',
+}
+
+'.fa-lastfm': {
+    title: '\uf202',
+}
+
+'.fa-lastfm-square': {
+    title: '\uf203',
+}
+
+'.fa-laugh': {
+    title: '\uf599',
+}
+
+'.fa-laugh-beam': {
+    title: '\uf59a',
+}
+
+'.fa-laugh-squint': {
+    title: '\uf59b',
+}
+
+'.fa-laugh-wink': {
+    title: '\uf59c',
+}
+
+'.fa-layer-group': {
+    title: '\uf5fd',
+}
+
+'.fa-leaf': {
+    title: '\uf06c',
+}
+
+'.fa-leanpub': {
+    title: '\uf212',
+}
+
+'.fa-lemon': {
+    title: '\uf094',
+}
+
+'.fa-less': {
+    title: '\uf41d',
+}
+
+'.fa-less-than': {
+    title: '\uf536',
+}
+
+'.fa-less-than-equal': {
+    title: '\uf537',
+}
+
+'.fa-level-down-alt': {
+    title: '\uf3be',
+}
+
+'.fa-level-up-alt': {
+    title: '\uf3bf',
+}
+
+'.fa-life-ring': {
+    title: '\uf1cd',
+}
+
+'.fa-lightbulb': {
+    title: '\uf0eb',
+}
+
+'.fa-line': {
+    title: '\uf3c0',
+}
+
+'.fa-link': {
+    title: '\uf0c1',
+}
+
+'.fa-linkedin': {
+    title: '\uf08c',
+}
+
+'.fa-linkedin-in': {
+    title: '\uf0e1',
+}
+
+'.fa-linode': {
+    title: '\uf2b8',
+}
+
+'.fa-linux': {
+    title: '\uf17c',
+}
+
+'.fa-lira-sign': {
+    title: '\uf195',
+}
+
+'.fa-list': {
+    title: '\uf03a',
+}
+
+'.fa-list-alt': {
+    title: '\uf022',
+}
+
+'.fa-list-ol': {
+    title: '\uf0cb',
+}
+
+'.fa-list-ul': {
+    title: '\uf0ca',
+}
+
+'.fa-location-arrow': {
+    title: '\uf124',
+}
+
+'.fa-lock': {
+    title: '\uf023',
+}
+
+'.fa-lock-open': {
+    title: '\uf3c1',
+}
+
+'.fa-long-arrow-alt-down': {
+    title: '\uf309',
+}
+
+'.fa-long-arrow-alt-left': {
+    title: '\uf30a',
+}
+
+'.fa-long-arrow-alt-right': {
+    title: '\uf30b',
+}
+
+'.fa-long-arrow-alt-up': {
+    title: '\uf30c',
+}
+
+'.fa-low-vision': {
+    title: '\uf2a8',
+}
+
+'.fa-luggage-cart': {
+    title: '\uf59d',
+}
+
+'.fa-lyft': {
+    title: '\uf3c3',
+}
+
+'.fa-magento': {
+    title: '\uf3c4',
+}
+
+'.fa-magic': {
+    title: '\uf0d0',
+}
+
+'.fa-magnet': {
+    title: '\uf076',
+}
+
+'.fa-mail-bulk': {
+    title: '\uf674',
+}
+
+'.fa-mailchimp': {
+    title: '\uf59e',
+}
+
+'.fa-male': {
+    title: '\uf183',
+}
+
+'.fa-mandalorian': {
+    title: '\uf50f',
+}
+
+'.fa-map': {
+    title: '\uf279',
+}
+
+'.fa-map-marked': {
+    title: '\uf59f',
+}
+
+'.fa-map-marked-alt': {
+    title: '\uf5a0',
+}
+
+'.fa-map-marker': {
+    title: '\uf041',
+}
+
+'.fa-map-marker-alt': {
+    title: '\uf3c5',
+}
+
+'.fa-map-pin': {
+    title: '\uf276',
+}
+
+'.fa-map-signs': {
+    title: '\uf277',
+}
+
+'.fa-markdown': {
+    title: '\uf60f',
+}
+
+'.fa-marker': {
+    title: '\uf5a1',
+}
+
+'.fa-mars': {
+    title: '\uf222',
+}
+
+'.fa-mars-double': {
+    title: '\uf227',
+}
+
+'.fa-mars-stroke': {
+    title: '\uf229',
+}
+
+'.fa-mars-stroke-h': {
+    title: '\uf22b',
+}
+
+'.fa-mars-stroke-v': {
+    title: '\uf22a',
+}
+
+'.fa-mask': {
+    title: '\uf6fa',
+}
+
+'.fa-mastodon': {
+    title: '\uf4f6',
+}
+
+'.fa-maxcdn': {
+    title: '\uf136',
+}
+
+'.fa-mdb': {
+    title: '\uf8ca',
+}
+
+'.fa-medal': {
+    title: '\uf5a2',
+}
+
+'.fa-medapps': {
+    title: '\uf3c6',
+}
+
+'.fa-medium': {
+    title: '\uf23a',
+}
+
+'.fa-medium-m': {
+    title: '\uf3c7',
+}
+
+'.fa-medkit': {
+    title: '\uf0fa',
+}
+
+'.fa-medrt': {
+    title: '\uf3c8',
+}
+
+'.fa-meetup': {
+    title: '\uf2e0',
+}
+
+'.fa-megaport': {
+    title: '\uf5a3',
+}
+
+'.fa-meh': {
+    title: '\uf11a',
+}
+
+'.fa-meh-blank': {
+    title: '\uf5a4',
+}
+
+'.fa-meh-rolling-eyes': {
+    title: '\uf5a5',
+}
+
+'.fa-memory': {
+    title: '\uf538',
+}
+
+'.fa-mendeley': {
+    title: '\uf7b3',
+}
+
+'.fa-menorah': {
+    title: '\uf676',
+}
+
+'.fa-mercury': {
+    title: '\uf223',
+}
+
+'.fa-meteor': {
+    title: '\uf753',
+}
+
+'.fa-microchip': {
+    title: '\uf2db',
+}
+
+'.fa-microphone': {
+    title: '\uf130',
+}
+
+'.fa-microphone-alt': {
+    title: '\uf3c9',
+}
+
+'.fa-microphone-alt-slash': {
+    title: '\uf539',
+}
+
+'.fa-microphone-slash': {
+    title: '\uf131',
+}
+
+'.fa-microscope': {
+    title: '\uf610',
+}
+
+'.fa-microsoft': {
+    title: '\uf3ca',
+}
+
+'.fa-minus': {
+    title: '\uf068',
+}
+
+'.fa-minus-circle': {
+    title: '\uf056',
+}
+
+'.fa-minus-square': {
+    title: '\uf146',
+}
+
+'.fa-mitten': {
+    title: '\uf7b5',
+}
+
+'.fa-mix': {
+    title: '\uf3cb',
+}
+
+'.fa-mixcloud': {
+    title: '\uf289',
+}
+
+'.fa-mizuni': {
+    title: '\uf3cc',
+}
+
+'.fa-mobile': {
+    title: '\uf10b',
+}
+
+'.fa-mobile-alt': {
+    title: '\uf3cd',
+}
+
+'.fa-modx': {
+    title: '\uf285',
+}
+
+'.fa-monero': {
+    title: '\uf3d0',
+}
+
+'.fa-money-bill': {
+    title: '\uf0d6',
+}
+
+'.fa-money-bill-alt': {
+    title: '\uf3d1',
+}
+
+'.fa-money-bill-wave': {
+    title: '\uf53a',
+}
+
+'.fa-money-bill-wave-alt': {
+    title: '\uf53b',
+}
+
+'.fa-money-check': {
+    title: '\uf53c',
+}
+
+'.fa-money-check-alt': {
+    title: '\uf53d',
+}
+
+'.fa-monument': {
+    title: '\uf5a6',
+}
+
+'.fa-moon': {
+    title: '\uf186',
+}
+
+'.fa-mortar-pestle': {
+    title: '\uf5a7',
+}
+
+'.fa-mosque': {
+    title: '\uf678',
+}
+
+'.fa-motorcycle': {
+    title: '\uf21c',
+}
+
+'.fa-mountain': {
+    title: '\uf6fc',
+}
+
+'.fa-mouse': {
+    title: '\uf8cc',
+}
+
+'.fa-mouse-pointer': {
+    title: '\uf245',
+}
+
+'.fa-mug-hot': {
+    title: '\uf7b6',
+}
+
+'.fa-music': {
+    title: '\uf001',
+}
+
+'.fa-napster': {
+    title: '\uf3d2',
+}
+
+'.fa-neos': {
+    title: '\uf612',
+}
+
+'.fa-network-wired': {
+    title: '\uf6ff',
+}
+
+'.fa-neuter': {
+    title: '\uf22c',
+}
+
+'.fa-newspaper': {
+    title: '\uf1ea',
+}
+
+'.fa-nimblr': {
+    title: '\uf5a8',
+}
+
+'.fa-node': {
+    title: '\uf419',
+}
+
+'.fa-node-js': {
+    title: '\uf3d3',
+}
+
+'.fa-not-equal': {
+    title: '\uf53e',
+}
+
+'.fa-notes-medical': {
+    title: '\uf481',
+}
+
+'.fa-npm': {
+    title: '\uf3d4',
+}
+
+'.fa-ns8': {
+    title: '\uf3d5',
+}
+
+'.fa-nutritionix': {
+    title: '\uf3d6',
+}
+
+'.fa-object-group': {
+    title: '\uf247',
+}
+
+'.fa-object-ungroup': {
+    title: '\uf248',
+}
+
+'.fa-odnoklassniki': {
+    title: '\uf263',
+}
+
+'.fa-odnoklassniki-square': {
+    title: '\uf264',
+}
+
+'.fa-oil-can': {
+    title: '\uf613',
+}
+
+'.fa-old-republic': {
+    title: '\uf510',
+}
+
+'.fa-om': {
+    title: '\uf679',
+}
+
+'.fa-opencart': {
+    title: '\uf23d',
+}
+
+'.fa-openid': {
+    title: '\uf19b',
+}
+
+'.fa-opera': {
+    title: '\uf26a',
+}
+
+'.fa-optin-monster': {
+    title: '\uf23c',
+}
+
+'.fa-orcid': {
+    title: '\uf8d2',
+}
+
+'.fa-osi': {
+    title: '\uf41a',
+}
+
+'.fa-otter': {
+    title: '\uf700',
+}
+
+'.fa-outdent': {
+    title: '\uf03b',
+}
+
+'.fa-page4': {
+    title: '\uf3d7',
+}
+
+'.fa-pagelines': {
+    title: '\uf18c',
+}
+
+'.fa-pager': {
+    title: '\uf815',
+}
+
+'.fa-paint-brush': {
+    title: '\uf1fc',
+}
+
+'.fa-paint-roller': {
+    title: '\uf5aa',
+}
+
+'.fa-palette': {
+    title: '\uf53f',
+}
+
+'.fa-palfed': {
+    title: '\uf3d8',
+}
+
+'.fa-pallet': {
+    title: '\uf482',
+}
+
+'.fa-paper-plane': {
+    title: '\uf1d8',
+}
+
+'.fa-paperclip': {
+    title: '\uf0c6',
+}
+
+'.fa-parachute-box': {
+    title: '\uf4cd',
+}
+
+'.fa-paragraph': {
+    title: '\uf1dd',
+}
+
+'.fa-parking': {
+    title: '\uf540',
+}
+
+'.fa-passport': {
+    title: '\uf5ab',
+}
+
+'.fa-pastafarianism': {
+    title: '\uf67b',
+}
+
+'.fa-paste': {
+    title: '\uf0ea',
+}
+
+'.fa-patreon': {
+    title: '\uf3d9',
+}
+
+'.fa-pause': {
+    title: '\uf04c',
+}
+
+'.fa-pause-circle': {
+    title: '\uf28b',
+}
+
+'.fa-paw': {
+    title: '\uf1b0',
+}
+
+'.fa-paypal': {
+    title: '\uf1ed',
+}
+
+'.fa-peace': {
+    title: '\uf67c',
+}
+
+'.fa-pen': {
+    title: '\uf304',
+}
+
+'.fa-pen-alt': {
+    title: '\uf305',
+}
+
+'.fa-pen-fancy': {
+    title: '\uf5ac',
+}
+
+'.fa-pen-nib': {
+    title: '\uf5ad',
+}
+
+'.fa-pen-square': {
+    title: '\uf14b',
+}
+
+'.fa-pencil-alt': {
+    title: '\uf303',
+}
+
+'.fa-pencil-ruler': {
+    title: '\uf5ae',
+}
+
+'.fa-penny-arcade': {
+    title: '\uf704',
+}
+
+'.fa-people-carry': {
+    title: '\uf4ce',
+}
+
+'.fa-pepper-hot': {
+    title: '\uf816',
+}
+
+'.fa-percent': {
+    title: '\uf295',
+}
+
+'.fa-percentage': {
+    title: '\uf541',
+}
+
+'.fa-periscope': {
+    title: '\uf3da',
+}
+
+'.fa-person-booth': {
+    title: '\uf756',
+}
+
+'.fa-phabricator': {
+    title: '\uf3db',
+}
+
+'.fa-phoenix-framework': {
+    title: '\uf3dc',
+}
+
+'.fa-phoenix-squadron': {
+    title: '\uf511',
+}
+
+'.fa-phone': {
+    title: '\uf095',
+}
+
+'.fa-phone-alt': {
+    title: '\uf879',
+}
+
+'.fa-phone-slash': {
+    title: '\uf3dd',
+}
+
+'.fa-phone-square': {
+    title: '\uf098',
+}
+
+'.fa-phone-square-alt': {
+    title: '\uf87b',
+}
+
+'.fa-phone-volume': {
+    title: '\uf2a0',
+}
+
+'.fa-photo-video': {
+    title: '\uf87c',
+}
+
+'.fa-php': {
+    title: '\uf457',
+}
+
+'.fa-pied-piper': {
+    title: '\uf2ae',
+}
+
+'.fa-pied-piper-alt': {
+    title: '\uf1a8',
+}
+
+'.fa-pied-piper-hat': {
+    title: '\uf4e5',
+}
+
+'.fa-pied-piper-pp': {
+    title: '\uf1a7',
+}
+
+'.fa-piggy-bank': {
+    title: '\uf4d3',
+}
+
+'.fa-pills': {
+    title: '\uf484',
+}
+
+'.fa-pinterest': {
+    title: '\uf0d2',
+}
+
+'.fa-pinterest-p': {
+    title: '\uf231',
+}
+
+'.fa-pinterest-square': {
+    title: '\uf0d3',
+}
+
+'.fa-pizza-slice': {
+    title: '\uf818',
+}
+
+'.fa-place-of-worship': {
+    title: '\uf67f',
+}
+
+'.fa-plane': {
+    title: '\uf072',
+}
+
+'.fa-plane-arrival': {
+    title: '\uf5af',
+}
+
+'.fa-plane-departure': {
+    title: '\uf5b0',
+}
+
+'.fa-play': {
+    title: '\uf04b',
+}
+
+'.fa-play-circle': {
+    title: '\uf144',
+}
+
+'.fa-playstation': {
+    title: '\uf3df',
+}
+
+'.fa-plug': {
+    title: '\uf1e6',
+}
+
+'.fa-plus': {
+    title: '\uf067',
+}
+
+'.fa-plus-circle': {
+    title: '\uf055',
+}
+
+'.fa-plus-square': {
+    title: '\uf0fe',
+}
+
+'.fa-podcast': {
+    title: '\uf2ce',
+}
+
+'.fa-poll': {
+    title: '\uf681',
+}
+
+'.fa-poll-h': {
+    title: '\uf682',
+}
+
+'.fa-poo': {
+    title: '\uf2fe',
+}
+
+'.fa-poo-storm': {
+    title: '\uf75a',
+}
+
+'.fa-poop': {
+    title: '\uf619',
+}
+
+'.fa-portrait': {
+    title: '\uf3e0',
+}
+
+'.fa-pound-sign': {
+    title: '\uf154',
+}
+
+'.fa-power-off': {
+    title: '\uf011',
+}
+
+'.fa-pray': {
+    title: '\uf683',
+}
+
+'.fa-praying-hands': {
+    title: '\uf684',
+}
+
+'.fa-prescription': {
+    title: '\uf5b1',
+}
+
+'.fa-prescription-bottle': {
+    title: '\uf485',
+}
+
+'.fa-prescription-bottle-alt': {
+    title: '\uf486',
+}
+
+'.fa-print': {
+    title: '\uf02f',
+}
+
+'.fa-procedures': {
+    title: '\uf487',
+}
+
+'.fa-product-hunt': {
+    title: '\uf288',
+}
+
+'.fa-project-diagram': {
+    title: '\uf542',
+}
+
+'.fa-pushed': {
+    title: '\uf3e1',
+}
+
+'.fa-puzzle-piece': {
+    title: '\uf12e',
+}
+
+'.fa-python': {
+    title: '\uf3e2',
+}
+
+'.fa-qq': {
+    title: '\uf1d6',
+}
+
+'.fa-qrcode': {
+    title: '\uf029',
+}
+
+'.fa-question': {
+    title: '\uf128',
+}
+
+'.fa-question-circle': {
+    title: '\uf059',
+}
+
+'.fa-quidditch': {
+    title: '\uf458',
+}
+
+'.fa-quinscape': {
+    title: '\uf459',
+}
+
+'.fa-quora': {
+    title: '\uf2c4',
+}
+
+'.fa-quote-left': {
+    title: '\uf10d',
+}
+
+'.fa-quote-right': {
+    title: '\uf10e',
+}
+
+'.fa-quran': {
+    title: '\uf687',
+}
+
+'.fa-r-project': {
+    title: '\uf4f7',
+}
+
+'.fa-radiation': {
+    title: '\uf7b9',
+}
+
+'.fa-radiation-alt': {
+    title: '\uf7ba',
+}
+
+'.fa-rainbow': {
+    title: '\uf75b',
+}
+
+'.fa-random': {
+    title: '\uf074',
+}
+
+'.fa-raspberry-pi': {
+    title: '\uf7bb',
+}
+
+'.fa-ravelry': {
+    title: '\uf2d9',
+}
+
+'.fa-react': {
+    title: '\uf41b',
+}
+
+'.fa-reacteurope': {
+    title: '\uf75d',
+}
+
+'.fa-readme': {
+    title: '\uf4d5',
+}
+
+'.fa-rebel': {
+    title: '\uf1d0',
+}
+
+'.fa-receipt': {
+    title: '\uf543',
+}
+
+'.fa-record-vinyl': {
+    title: '\uf8d9',
+}
+
+'.fa-recycle': {
+    title: '\uf1b8',
+}
+
+'.fa-red-river': {
+    title: '\uf3e3',
+}
+
+'.fa-reddit': {
+    title: '\uf1a1',
+}
+
+'.fa-reddit-alien': {
+    title: '\uf281',
+}
+
+'.fa-reddit-square': {
+    title: '\uf1a2',
+}
+
+'.fa-redhat': {
+    title: '\uf7bc',
+}
+
+'.fa-redo': {
+    title: '\uf01e',
+}
+
+'.fa-redo-alt': {
+    title: '\uf2f9',
+}
+
+'.fa-registered': {
+    title: '\uf25d',
+}
+
+'.fa-remove-format': {
+    title: '\uf87d',
+}
+
+'.fa-renren': {
+    title: '\uf18b',
+}
+
+'.fa-reply': {
+    title: '\uf3e5',
+}
+
+'.fa-reply-all': {
+    title: '\uf122',
+}
+
+'.fa-replyd': {
+    title: '\uf3e6',
+}
+
+'.fa-republican': {
+    title: '\uf75e',
+}
+
+'.fa-researchgate': {
+    title: '\uf4f8',
+}
+
+'.fa-resolving': {
+    title: '\uf3e7',
+}
+
+'.fa-restroom': {
+    title: '\uf7bd',
+}
+
+'.fa-retweet': {
+    title: '\uf079',
+}
+
+'.fa-rev': {
+    title: '\uf5b2',
+}
+
+'.fa-ribbon': {
+    title: '\uf4d6',
+}
+
+'.fa-ring': {
+    title: '\uf70b',
+}
+
+'.fa-road': {
+    title: '\uf018',
+}
+
+'.fa-robot': {
+    title: '\uf544',
+}
+
+'.fa-rocket': {
+    title: '\uf135',
+}
+
+'.fa-rocketchat': {
+    title: '\uf3e8',
+}
+
+'.fa-rockrms': {
+    title: '\uf3e9',
+}
+
+'.fa-route': {
+    title: '\uf4d7',
+}
+
+'.fa-rss': {
+    title: '\uf09e',
+}
+
+'.fa-rss-square': {
+    title: '\uf143',
+}
+
+'.fa-ruble-sign': {
+    title: '\uf158',
+}
+
+'.fa-ruler': {
+    title: '\uf545',
+}
+
+'.fa-ruler-combined': {
+    title: '\uf546',
+}
+
+'.fa-ruler-horizontal': {
+    title: '\uf547',
+}
+
+'.fa-ruler-vertical': {
+    title: '\uf548',
+}
+
+'.fa-running': {
+    title: '\uf70c',
+}
+
+'.fa-rupee-sign': {
+    title: '\uf156',
+}
+
+'.fa-sad-cry': {
+    title: '\uf5b3',
+}
+
+'.fa-sad-tear': {
+    title: '\uf5b4',
+}
+
+'.fa-safari': {
+    title: '\uf267',
+}
+
+'.fa-salesforce': {
+    title: '\uf83b',
+}
+
+'.fa-sass': {
+    title: '\uf41e',
+}
+
+'.fa-satellite': {
+    title: '\uf7bf',
+}
+
+'.fa-satellite-dish': {
+    title: '\uf7c0',
+}
+
+'.fa-save': {
+    title: '\uf0c7',
+}
+
+'.fa-schlix': {
+    title: '\uf3ea',
+}
+
+'.fa-school': {
+    title: '\uf549',
+}
+
+'.fa-screwdriver': {
+    title: '\uf54a',
+}
+
+'.fa-scribd': {
+    title: '\uf28a',
+}
+
+'.fa-scroll': {
+    title: '\uf70e',
+}
+
+'.fa-sd-card': {
+    title: '\uf7c2',
+}
+
+'.fa-search': {
+    title: '\uf002',
+}
+
+'.fa-search-dollar': {
+    title: '\uf688',
+}
+
+'.fa-search-location': {
+    title: '\uf689',
+}
+
+'.fa-search-minus': {
+    title: '\uf010',
+}
+
+'.fa-search-plus': {
+    title: '\uf00e',
+}
+
+'.fa-searchengin': {
+    title: '\uf3eb',
+}
+
+'.fa-seedling': {
+    title: '\uf4d8',
+}
+
+'.fa-sellcast': {
+    title: '\uf2da',
+}
+
+'.fa-sellsy': {
+    title: '\uf213',
+}
+
+'.fa-server': {
+    title: '\uf233',
+}
+
+'.fa-servicestack': {
+    title: '\uf3ec',
+}
+
+'.fa-shapes': {
+    title: '\uf61f',
+}
+
+'.fa-share': {
+    title: '\uf064',
+}
+
+'.fa-share-alt': {
+    title: '\uf1e0',
+}
+
+'.fa-share-alt-square': {
+    title: '\uf1e1',
+}
+
+'.fa-share-square': {
+    title: '\uf14d',
+}
+
+'.fa-shekel-sign': {
+    title: '\uf20b',
+}
+
+'.fa-shield-alt': {
+    title: '\uf3ed',
+}
+
+'.fa-ship': {
+    title: '\uf21a',
+}
+
+'.fa-shipping-fast': {
+    title: '\uf48b',
+}
+
+'.fa-shirtsinbulk': {
+    title: '\uf214',
+}
+
+'.fa-shoe-prints': {
+    title: '\uf54b',
+}
+
+'.fa-shopping-bag': {
+    title: '\uf290',
+}
+
+'.fa-shopping-basket': {
+    title: '\uf291',
+}
+
+'.fa-shopping-cart': {
+    title: '\uf07a',
+}
+
+'.fa-shopware': {
+    title: '\uf5b5',
+}
+
+'.fa-shower': {
+    title: '\uf2cc',
+}
+
+'.fa-shuttle-van': {
+    title: '\uf5b6',
+}
+
+'.fa-sign': {
+    title: '\uf4d9',
+}
+
+'.fa-sign-in-alt': {
+    title: '\uf2f6',
+}
+
+'.fa-sign-language': {
+    title: '\uf2a7',
+}
+
+'.fa-sign-out-alt': {
+    title: '\uf2f5',
+}
+
+'.fa-signal': {
+    title: '\uf012',
+}
+
+'.fa-signature': {
+    title: '\uf5b7',
+}
+
+'.fa-sim-card': {
+    title: '\uf7c4',
+}
+
+'.fa-simplybuilt': {
+    title: '\uf215',
+}
+
+'.fa-sistrix': {
+    title: '\uf3ee',
+}
+
+'.fa-sitemap': {
+    title: '\uf0e8',
+}
+
+'.fa-sith': {
+    title: '\uf512',
+}
+
+'.fa-skating': {
+    title: '\uf7c5',
+}
+
+'.fa-sketch': {
+    title: '\uf7c6',
+}
+
+'.fa-skiing': {
+    title: '\uf7c9',
+}
+
+'.fa-skiing-nordic': {
+    title: '\uf7ca',
+}
+
+'.fa-skull': {
+    title: '\uf54c',
+}
+
+'.fa-skull-crossbones': {
+    title: '\uf714',
+}
+
+'.fa-skyatlas': {
+    title: '\uf216',
+}
+
+'.fa-skype': {
+    title: '\uf17e',
+}
+
+'.fa-slack': {
+    title: '\uf198',
+}
+
+'.fa-slack-hash': {
+    title: '\uf3ef',
+}
+
+'.fa-slash': {
+    title: '\uf715',
+}
+
+'.fa-sleigh': {
+    title: '\uf7cc',
+}
+
+'.fa-sliders-h': {
+    title: '\uf1de',
+}
+
+'.fa-slideshare': {
+    title: '\uf1e7',
+}
+
+'.fa-smile': {
+    title: '\uf118',
+}
+
+'.fa-smile-beam': {
+    title: '\uf5b8',
+}
+
+'.fa-smile-wink': {
+    title: '\uf4da',
+}
+
+'.fa-smog': {
+    title: '\uf75f',
+}
+
+'.fa-smoking': {
+    title: '\uf48d',
+}
+
+'.fa-smoking-ban': {
+    title: '\uf54d',
+}
+
+'.fa-sms': {
+    title: '\uf7cd',
+}
+
+'.fa-snapchat': {
+    title: '\uf2ab',
+}
+
+'.fa-snapchat-ghost': {
+    title: '\uf2ac',
+}
+
+'.fa-snapchat-square': {
+    title: '\uf2ad',
+}
+
+'.fa-snowboarding': {
+    title: '\uf7ce',
+}
+
+'.fa-snowflake': {
+    title: '\uf2dc',
+}
+
+'.fa-snowman': {
+    title: '\uf7d0',
+}
+
+'.fa-snowplow': {
+    title: '\uf7d2',
+}
+
+'.fa-socks': {
+    title: '\uf696',
+}
+
+'.fa-solar-panel': {
+    title: '\uf5ba',
+}
+
+'.fa-sort': {
+    title: '\uf0dc',
+}
+
+'.fa-sort-alpha-down': {
+    title: '\uf15d',
+}
+
+'.fa-sort-alpha-down-alt': {
+    title: '\uf881',
+}
+
+'.fa-sort-alpha-up': {
+    title: '\uf15e',
+}
+
+'.fa-sort-alpha-up-alt': {
+    title: '\uf882',
+}
+
+'.fa-sort-amount-down': {
+    title: '\uf160',
+}
+
+'.fa-sort-amount-down-alt': {
+    title: '\uf884',
+}
+
+'.fa-sort-amount-up': {
+    title: '\uf161',
+}
+
+'.fa-sort-amount-up-alt': {
+    title: '\uf885',
+}
+
+'.fa-sort-down': {
+    title: '\uf0dd',
+}
+
+'.fa-sort-numeric-down': {
+    title: '\uf162',
+}
+
+'.fa-sort-numeric-down-alt': {
+    title: '\uf886',
+}
+
+'.fa-sort-numeric-up': {
+    title: '\uf163',
+}
+
+'.fa-sort-numeric-up-alt': {
+    title: '\uf887',
+}
+
+'.fa-sort-up': {
+    title: '\uf0de',
+}
+
+'.fa-soundcloud': {
+    title: '\uf1be',
+}
+
+'.fa-sourcetree': {
+    title: '\uf7d3',
+}
+
+'.fa-spa': {
+    title: '\uf5bb',
+}
+
+'.fa-space-shuttle': {
+    title: '\uf197',
+}
+
+'.fa-speakap': {
+    title: '\uf3f3',
+}
+
+'.fa-speaker-deck': {
+    title: '\uf83c',
+}
+
+'.fa-spell-check': {
+    title: '\uf891',
+}
+
+'.fa-spider': {
+    title: '\uf717',
+}
+
+'.fa-spinner': {
+    title: '\uf110',
+}
+
+'.fa-splotch': {
+    title: '\uf5bc',
+}
+
+'.fa-spotify': {
+    title: '\uf1bc',
+}
+
+'.fa-spray-can': {
+    title: '\uf5bd',
+}
+
+'.fa-square': {
+    title: '\uf0c8',
+}
+
+'.fa-square-full': {
+    title: '\uf45c',
+}
+
+'.fa-square-root-alt': {
+    title: '\uf698',
+}
+
+'.fa-squarespace': {
+    title: '\uf5be',
+}
+
+'.fa-stack-exchange': {
+    title: '\uf18d',
+}
+
+'.fa-stack-overflow': {
+    title: '\uf16c',
+}
+
+'.fa-stackpath': {
+    title: '\uf842',
+}
+
+'.fa-stamp': {
+    title: '\uf5bf',
+}
+
+'.fa-star': {
+    title: '\uf005',
+}
+
+'.fa-star-and-crescent': {
+    title: '\uf699',
+}
+
+'.fa-star-half': {
+    title: '\uf089',
+}
+
+'.fa-star-half-alt': {
+    title: '\uf5c0',
+}
+
+'.fa-star-of-david': {
+    title: '\uf69a',
+}
+
+'.fa-star-of-life': {
+    title: '\uf621',
+}
+
+'.fa-staylinked': {
+    title: '\uf3f5',
+}
+
+'.fa-steam': {
+    title: '\uf1b6',
+}
+
+'.fa-steam-square': {
+    title: '\uf1b7',
+}
+
+'.fa-steam-symbol': {
+    title: '\uf3f6',
+}
+
+'.fa-step-backward': {
+    title: '\uf048',
+}
+
+'.fa-step-forward': {
+    title: '\uf051',
+}
+
+'.fa-stethoscope': {
+    title: '\uf0f1',
+}
+
+'.fa-sticker-mule': {
+    title: '\uf3f7',
+}
+
+'.fa-sticky-note': {
+    title: '\uf249',
+}
+
+'.fa-stop': {
+    title: '\uf04d',
+}
+
+'.fa-stop-circle': {
+    title: '\uf28d',
+}
+
+'.fa-stopwatch': {
+    title: '\uf2f2',
+}
+
+'.fa-store': {
+    title: '\uf54e',
+}
+
+'.fa-store-alt': {
+    title: '\uf54f',
+}
+
+'.fa-strava': {
+    title: '\uf428',
+}
+
+'.fa-stream': {
+    title: '\uf550',
+}
+
+'.fa-street-view': {
+    title: '\uf21d',
+}
+
+'.fa-strikethrough': {
+    title: '\uf0cc',
+}
+
+'.fa-stripe': {
+    title: '\uf429',
+}
+
+'.fa-stripe-s': {
+    title: '\uf42a',
+}
+
+'.fa-stroopwafel': {
+    title: '\uf551',
+}
+
+'.fa-studiovinari': {
+    title: '\uf3f8',
+}
+
+'.fa-stumbleupon': {
+    title: '\uf1a4',
+}
+
+'.fa-stumbleupon-circle': {
+    title: '\uf1a3',
+}
+
+'.fa-subscript': {
+    title: '\uf12c',
+}
+
+'.fa-subway': {
+    title: '\uf239',
+}
+
+'.fa-suitcase': {
+    title: '\uf0f2',
+}
+
+'.fa-suitcase-rolling': {
+    title: '\uf5c1',
+}
+
+'.fa-sun': {
+    title: '\uf185',
+}
+
+'.fa-superpowers': {
+    title: '\uf2dd',
+}
+
+'.fa-superscript': {
+    title: '\uf12b',
+}
+
+'.fa-supple': {
+    title: '\uf3f9',
+}
+
+'.fa-surprise': {
+    title: '\uf5c2',
+}
+
+'.fa-suse': {
+    title: '\uf7d6',
+}
+
+'.fa-swatchbook': {
+    title: '\uf5c3',
+}
+
+'.fa-swift': {
+    title: '\uf8e1',
+}
+
+'.fa-swimmer': {
+    title: '\uf5c4',
+}
+
+'.fa-swimming-pool': {
+    title: '\uf5c5',
+}
+
+'.fa-symfony': {
+    title: '\uf83d',
+}
+
+'.fa-synagogue': {
+    title: '\uf69b',
+}
+
+'.fa-sync': {
+    title: '\uf021',
+}
+
+'.fa-sync-alt': {
+    title: '\uf2f1',
+}
+
+'.fa-syringe': {
+    title: '\uf48e',
+}
+
+'.fa-table': {
+    title: '\uf0ce',
+}
+
+'.fa-table-tennis': {
+    title: '\uf45d',
+}
+
+'.fa-tablet': {
+    title: '\uf10a',
+}
+
+'.fa-tablet-alt': {
+    title: '\uf3fa',
+}
+
+'.fa-tablets': {
+    title: '\uf490',
+}
+
+'.fa-tachometer-alt': {
+    title: '\uf3fd',
+}
+
+'.fa-tag': {
+    title: '\uf02b',
+}
+
+'.fa-tags': {
+    title: '\uf02c',
+}
+
+'.fa-tape': {
+    title: '\uf4db',
+}
+
+'.fa-tasks': {
+    title: '\uf0ae',
+}
+
+'.fa-taxi': {
+    title: '\uf1ba',
+}
+
+'.fa-teamspeak': {
+    title: '\uf4f9',
+}
+
+'.fa-teeth': {
+    title: '\uf62e',
+}
+
+'.fa-teeth-open': {
+    title: '\uf62f',
+}
+
+'.fa-telegram': {
+    title: '\uf2c6',
+}
+
+'.fa-telegram-plane': {
+    title: '\uf3fe',
+}
+
+'.fa-temperature-high': {
+    title: '\uf769',
+}
+
+'.fa-temperature-low': {
+    title: '\uf76b',
+}
+
+'.fa-tencent-weibo': {
+    title: '\uf1d5',
+}
+
+'.fa-tenge': {
+    title: '\uf7d7',
+}
+
+'.fa-terminal': {
+    title: '\uf120',
+}
+
+'.fa-text-height': {
+    title: '\uf034',
+}
+
+'.fa-text-width': {
+    title: '\uf035',
+}
+
+'.fa-th': {
+    title: '\uf00a',
+}
+
+'.fa-th-large': {
+    title: '\uf009',
+}
+
+'.fa-th-list': {
+    title: '\uf00b',
+}
+
+'.fa-the-red-yeti': {
+    title: '\uf69d',
+}
+
+'.fa-theater-masks': {
+    title: '\uf630',
+}
+
+'.fa-themeco': {
+    title: '\uf5c6',
+}
+
+'.fa-themeisle': {
+    title: '\uf2b2',
+}
+
+'.fa-thermometer': {
+    title: '\uf491',
+}
+
+'.fa-thermometer-empty': {
+    title: '\uf2cb',
+}
+
+'.fa-thermometer-full': {
+    title: '\uf2c7',
+}
+
+'.fa-thermometer-half': {
+    title: '\uf2c9',
+}
+
+'.fa-thermometer-quarter': {
+    title: '\uf2ca',
+}
+
+'.fa-thermometer-three-quarters': {
+    title: '\uf2c8',
+}
+
+'.fa-think-peaks': {
+    title: '\uf731',
+}
+
+'.fa-thumbs-down': {
+    title: '\uf165',
+}
+
+'.fa-thumbs-up': {
+    title: '\uf164',
+}
+
+'.fa-thumbtack': {
+    title: '\uf08d',
+}
+
+'.fa-ticket-alt': {
+    title: '\uf3ff',
+}
+
+'.fa-times': {
+    title: '\uf00d',
+}
+
+'.fa-times-circle': {
+    title: '\uf057',
+}
+
+'.fa-tint': {
+    title: '\uf043',
+}
+
+'.fa-tint-slash': {
+    title: '\uf5c7',
+}
+
+'.fa-tired': {
+    title: '\uf5c8',
+}
+
+'.fa-toggle-off': {
+    title: '\uf204',
+}
+
+'.fa-toggle-on': {
+    title: '\uf205',
+}
+
+'.fa-toilet': {
+    title: '\uf7d8',
+}
+
+'.fa-toilet-paper': {
+    title: '\uf71e',
+}
+
+'.fa-toolbox': {
+    title: '\uf552',
+}
+
+'.fa-tools': {
+    title: '\uf7d9',
+}
+
+'.fa-tooth': {
+    title: '\uf5c9',
+}
+
+'.fa-torah': {
+    title: '\uf6a0',
+}
+
+'.fa-torii-gate': {
+    title: '\uf6a1',
+}
+
+'.fa-tractor': {
+    title: '\uf722',
+}
+
+'.fa-trade-federation': {
+    title: '\uf513',
+}
+
+'.fa-trademark': {
+    title: '\uf25c',
+}
+
+'.fa-traffic-light': {
+    title: '\uf637',
+}
+
+'.fa-train': {
+    title: '\uf238',
+}
+
+'.fa-tram': {
+    title: '\uf7da',
+}
+
+'.fa-transgender': {
+    title: '\uf224',
+}
+
+'.fa-transgender-alt': {
+    title: '\uf225',
+}
+
+'.fa-trash': {
+    title: '\uf1f8',
+}
+
+'.fa-trash-alt': {
+    title: '\uf2ed',
+}
+
+'.fa-trash-restore': {
+    title: '\uf829',
+}
+
+'.fa-trash-restore-alt': {
+    title: '\uf82a',
+}
+
+'.fa-tree': {
+    title: '\uf1bb',
+}
+
+'.fa-trello': {
+    title: '\uf181',
+}
+
+'.fa-tripadvisor': {
+    title: '\uf262',
+}
+
+'.fa-trophy': {
+    title: '\uf091',
+}
+
+'.fa-truck': {
+    title: '\uf0d1',
+}
+
+'.fa-truck-loading': {
+    title: '\uf4de',
+}
+
+'.fa-truck-monster': {
+    title: '\uf63b',
+}
+
+'.fa-truck-moving': {
+    title: '\uf4df',
+}
+
+'.fa-truck-pickup': {
+    title: '\uf63c',
+}
+
+'.fa-tshirt': {
+    title: '\uf553',
+}
+
+'.fa-tty': {
+    title: '\uf1e4',
+}
+
+'.fa-tumblr': {
+    title: '\uf173',
+}
+
+'.fa-tumblr-square': {
+    title: '\uf174',
+}
+
+'.fa-tv': {
+    title: '\uf26c',
+}
+
+'.fa-twitch': {
+    title: '\uf1e8',
+}
+
+'.fa-twitter': {
+    title: '\uf099',
+}
+
+'.fa-twitter-square': {
+    title: '\uf081',
+}
+
+'.fa-typo3': {
+    title: '\uf42b',
+}
+
+'.fa-uber': {
+    title: '\uf402',
+}
+
+'.fa-ubuntu': {
+    title: '\uf7df',
+}
+
+'.fa-uikit': {
+    title: '\uf403',
+}
+
+'.fa-umbraco': {
+    title: '\uf8e8',
+}
+
+'.fa-umbrella': {
+    title: '\uf0e9',
+}
+
+'.fa-umbrella-beach': {
+    title: '\uf5ca',
+}
+
+'.fa-underline': {
+    title: '\uf0cd',
+}
+
+'.fa-undo': {
+    title: '\uf0e2',
+}
+
+'.fa-undo-alt': {
+    title: '\uf2ea',
+}
+
+'.fa-uniregistry': {
+    title: '\uf404',
+}
+
+'.fa-universal-access': {
+    title: '\uf29a',
+}
+
+'.fa-university': {
+    title: '\uf19c',
+}
+
+'.fa-unlink': {
+    title: '\uf127',
+}
+
+'.fa-unlock': {
+    title: '\uf09c',
+}
+
+'.fa-unlock-alt': {
+    title: '\uf13e',
+}
+
+'.fa-untappd': {
+    title: '\uf405',
+}
+
+'.fa-upload': {
+    title: '\uf093',
+}
+
+'.fa-ups': {
+    title: '\uf7e0',
+}
+
+'.fa-usb': {
+    title: '\uf287',
+}
+
+'.fa-user': {
+    title: '\uf007',
+}
+
+'.fa-user-alt': {
+    title: '\uf406',
+}
+
+'.fa-user-alt-slash': {
+    title: '\uf4fa',
+}
+
+'.fa-user-astronaut': {
+    title: '\uf4fb',
+}
+
+'.fa-user-check': {
+    title: '\uf4fc',
+}
+
+'.fa-user-circle': {
+    title: '\uf2bd',
+}
+
+'.fa-user-clock': {
+    title: '\uf4fd',
+}
+
+'.fa-user-cog': {
+    title: '\uf4fe',
+}
+
+'.fa-user-edit': {
+    title: '\uf4ff',
+}
+
+'.fa-user-friends': {
+    title: '\uf500',
+}
+
+'.fa-user-graduate': {
+    title: '\uf501',
+}
+
+'.fa-user-injured': {
+    title: '\uf728',
+}
+
+'.fa-user-lock': {
+    title: '\uf502',
+}
+
+'.fa-user-md': {
+    title: '\uf0f0',
+}
+
+'.fa-user-minus': {
+    title: '\uf503',
+}
+
+'.fa-user-ninja': {
+    title: '\uf504',
+}
+
+'.fa-user-nurse': {
+    title: '\uf82f',
+}
+
+'.fa-user-plus': {
+    title: '\uf234',
+}
+
+'.fa-user-secret': {
+    title: '\uf21b',
+}
+
+'.fa-user-shield': {
+    title: '\uf505',
+}
+
+'.fa-user-slash': {
+    title: '\uf506',
+}
+
+'.fa-user-tag': {
+    title: '\uf507',
+}
+
+'.fa-user-tie': {
+    title: '\uf508',
+}
+
+'.fa-user-times': {
+    title: '\uf235',
+}
+
+'.fa-users': {
+    title: '\uf0c0',
+}
+
+'.fa-users-cog': {
+    title: '\uf509',
+}
+
+'.fa-usps': {
+    title: '\uf7e1',
+}
+
+'.fa-ussunnah': {
+    title: '\uf407',
+}
+
+'.fa-utensil-spoon': {
+    title: '\uf2e5',
+}
+
+'.fa-utensils': {
+    title: '\uf2e7',
+}
+
+'.fa-vaadin': {
+    title: '\uf408',
+}
+
+'.fa-vector-square': {
+    title: '\uf5cb',
+}
+
+'.fa-venus': {
+    title: '\uf221',
+}
+
+'.fa-venus-double': {
+    title: '\uf226',
+}
+
+'.fa-venus-mars': {
+    title: '\uf228',
+}
+
+'.fa-viacoin': {
+    title: '\uf237',
+}
+
+'.fa-viadeo': {
+    title: '\uf2a9',
+}
+
+'.fa-viadeo-square': {
+    title: '\uf2aa',
+}
+
+'.fa-vial': {
+    title: '\uf492',
+}
+
+'.fa-vials': {
+    title: '\uf493',
+}
+
+'.fa-viber': {
+    title: '\uf409',
+}
+
+'.fa-video': {
+    title: '\uf03d',
+}
+
+'.fa-video-slash': {
+    title: '\uf4e2',
+}
+
+'.fa-vihara': {
+    title: '\uf6a7',
+}
+
+'.fa-vimeo': {
+    title: '\uf40a',
+}
+
+'.fa-vimeo-square': {
+    title: '\uf194',
+}
+
+'.fa-vimeo-v': {
+    title: '\uf27d',
+}
+
+'.fa-vine': {
+    title: '\uf1ca',
+}
+
+'.fa-vk': {
+    title: '\uf189',
+}
+
+'.fa-vnv': {
+    title: '\uf40b',
+}
+
+'.fa-voicemail': {
+    title: '\uf897',
+}
+
+'.fa-volleyball-ball': {
+    title: '\uf45f',
+}
+
+'.fa-volume-down': {
+    title: '\uf027',
+}
+
+'.fa-volume-mute': {
+    title: '\uf6a9',
+}
+
+'.fa-volume-off': {
+    title: '\uf026',
+}
+
+'.fa-volume-up': {
+    title: '\uf028',
+}
+
+'.fa-vote-yea': {
+    title: '\uf772',
+}
+
+'.fa-vr-cardboard': {
+    title: '\uf729',
+}
+
+'.fa-vuejs': {
+    title: '\uf41f',
+}
+
+'.fa-walking': {
+    title: '\uf554',
+}
+
+'.fa-wallet': {
+    title: '\uf555',
+}
+
+'.fa-warehouse': {
+    title: '\uf494',
+}
+
+'.fa-water': {
+    title: '\uf773',
+}
+
+'.fa-wave-square': {
+    title: '\uf83e',
+}
+
+'.fa-waze': {
+    title: '\uf83f',
+}
+
+'.fa-weebly': {
+    title: '\uf5cc',
+}
+
+'.fa-weibo': {
+    title: '\uf18a',
+}
+
+'.fa-weight': {
+    title: '\uf496',
+}
+
+'.fa-weight-hanging': {
+    title: '\uf5cd',
+}
+
+'.fa-weixin': {
+    title: '\uf1d7',
+}
+
+'.fa-whatsapp': {
+    title: '\uf232',
+}
+
+'.fa-whatsapp-square': {
+    title: '\uf40c',
+}
+
+'.fa-wheelchair': {
+    title: '\uf193',
+}
+
+'.fa-whmcs': {
+    title: '\uf40d',
+}
+
+'.fa-wifi': {
+    title: '\uf1eb',
+}
+
+'.fa-wikipedia-w': {
+    title: '\uf266',
+}
+
+'.fa-wind': {
+    title: '\uf72e',
+}
+
+'.fa-window-close': {
+    title: '\uf410',
+}
+
+'.fa-window-maximize': {
+    title: '\uf2d0',
+}
+
+'.fa-window-minimize': {
+    title: '\uf2d1',
+}
+
+'.fa-window-restore': {
+    title: '\uf2d2',
+}
+
+'.fa-windows': {
+    title: '\uf17a',
+}
+
+'.fa-wine-bottle': {
+    title: '\uf72f',
+}
+
+'.fa-wine-glass': {
+    title: '\uf4e3',
+}
+
+'.fa-wine-glass-alt': {
+    title: '\uf5ce',
+}
+
+'.fa-wix': {
+    title: '\uf5cf',
+}
+
+'.fa-wizards-of-the-coast': {
+    title: '\uf730',
+}
+
+'.fa-wolf-pack-battalion': {
+    title: '\uf514',
+}
+
+'.fa-won-sign': {
+    title: '\uf159',
+}
+
+'.fa-wordpress': {
+    title: '\uf19a',
+}
+
+'.fa-wordpress-simple': {
+    title: '\uf411',
+}
+
+'.fa-wpbeginner': {
+    title: '\uf297',
+}
+
+'.fa-wpexplorer': {
+    title: '\uf2de',
+}
+
+'.fa-wpforms': {
+    title: '\uf298',
+}
+
+'.fa-wpressr': {
+    title: '\uf3e4',
+}
+
+'.fa-wrench': {
+    title: '\uf0ad',
+}
+
+'.fa-x-ray': {
+    title: '\uf497',
+}
+
+'.fa-xbox': {
+    title: '\uf412',
+}
+
+'.fa-xing': {
+    title: '\uf168',
+}
+
+'.fa-xing-square': {
+    title: '\uf169',
+}
+
+'.fa-y-combinator': {
+    title: '\uf23b',
+}
+
+'.fa-yahoo': {
+    title: '\uf19e',
+}
+
+'.fa-yammer': {
+    title: '\uf840',
+}
+
+'.fa-yandex': {
+    title: '\uf413',
+}
+
+'.fa-yandex-international': {
+    title: '\uf414',
+}
+
+'.fa-yarn': {
+    title: '\uf7e3',
+}
+
+'.fa-yelp': {
+    title: '\uf1e9',
+}
+
+'.fa-yen-sign': {
+    title: '\uf157',
+}
+
+'.fa-yin-yang': {
+    title: '\uf6ad',
+}
+
+'.fa-yoast': {
+    title: '\uf2b1',
+}
+
+'.fa-youtube': {
+    title: '\uf167',
+}
+
+'.fa-youtube-square': {
+    title: '\uf431',
+}
+
+'.fa-zhihu': {
+    title: '\uf63f',
+}

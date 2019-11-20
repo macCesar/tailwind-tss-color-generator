@@ -4,9 +4,12 @@
 // Reset Styles
 'Window': { backgroundColor: '#fff' }
 'View': { width: Ti.UI.SIZE, height: Ti.UI.SIZE }
-'View[platform=ios]': { clipMode: Ti.UI.iOS.CLIP_MODE_DISABLED }
+'ImageView[platform=ios]': { hires: true }
 '.vertical': { layout: 'vertical' }
 '.horizontal': { layout: 'horizontal' }
+'.vertical[platform=ios]': { clipMode: Ti.UI.iOS.CLIP_MODE_DISABLED }
+'.horizontal[platform=ios]': { clipMode: Ti.UI.iOS.CLIP_MODE_DISABLED }
+'.clip-enabled[platform=ios]': { clipMode: Ti.UI.iOS.CLIP_MODE_ENABLED }
 
 // Colors
 '.text-transparent': { color: 'transparent' }
@@ -440,6 +443,27 @@
 '.rounded': { borderRadius: 4 }
 '.rounded-lg': { borderRadius: 8 }
 '.rounded-full': { borderRadius: 4 }
+
+// Border Radius - Extra Styles ( Radius is half de size of w-xx and h-xx spacings )
+'.rounded-0': { borderRadius: 0 }
+'.rounded-1': { borderRadius: 2 }
+'.rounded-2': { borderRadius: 4 }
+'.rounded-3': { borderRadius: 6 }
+'.rounded-4': { borderRadius: 8 }
+'.rounded-5': { borderRadius: 10 }
+'.rounded-6': { borderRadius: 12 }
+'.rounded-8': { borderRadius: 16 }
+'.rounded-10': { borderRadius: 20 }
+'.rounded-12': { borderRadius: 24 }
+'.rounded-16': { borderRadius: 32 }
+'.rounded-20': { borderRadius: 40 }
+'.rounded-24': { borderRadius: 48 }
+'.rounded-32': { borderRadius: 64 }
+'.rounded-40': { borderRadius: 80 }
+'.rounded-48': { borderRadius: 96 }
+'.rounded-56': { borderRadius: 112 }
+'.rounded-64': { borderRadius: 128 }
+'.rounded-px': { borderRadius: 8 }
 
 // Border Width
 '.border-0': { borderWidth: 0 }
