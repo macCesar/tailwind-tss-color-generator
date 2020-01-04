@@ -1,5 +1,6 @@
 // Tailwind for Titanium
 // Converted by César Estrada
+// https://github.com/macCesar/tailwind-tss-color-generator
 
 // Reset Styles
 'Window': { backgroundColor: '#fff' }

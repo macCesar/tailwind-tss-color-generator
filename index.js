@@ -7,6 +7,8 @@
 
 	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
 
+	convertedStyles += '// https://github.com/macCesar/tailwind-tss-color-generator\n'
+
 	// Reset Styles ( Preflight in Tailwind lingo )
 	// Some reseting has to be so everything else work as intented.
 	convertedStyles += helpers.resetStyles();
