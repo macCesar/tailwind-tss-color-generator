@@ -14,7 +14,7 @@
 	"author": "César Estrada",
 	"license": "ISC",
 	"devDependencies": {
-		"tailwindcss": "^1.1.4",
-		"underscore": "^1.9.1"
+		"tailwindcss": "^1.2.0",
+		"underscore": "^1.9.2"
 	}
 }

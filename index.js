@@ -10,7 +10,7 @@
 	convertedStyles += '// https://github.com/macCesar/tailwind-tss-color-generator\n'
 
 	// Reset Styles ( Preflight in Tailwind lingo )
-	// Some reseting has to be so everything else work as intented.
+	// Some reseting has to be so everything else work as intended.
 	convertedStyles += helpers.resetStyles();
 
 	// Colors
@@ -52,7 +52,7 @@
 	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: defaultConfigTheme.spacing })));
 
 	// Box Shadow ( iOS Only )
-	convertedStyles += helpers.shadow();
+	convertedStyles += helpers.shadow(defaultConfigTheme.boxShadow);
 
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);

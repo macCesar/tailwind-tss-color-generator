@@ -442,6 +442,7 @@
 '.rounded-none': { borderRadius: 0 }
 '.rounded-sm': { borderRadius: 2 }
 '.rounded': { borderRadius: 4 }
+'.rounded-md': { borderRadius: 6 }
 '.rounded-lg': { borderRadius: 8 }
 '.rounded-full': { borderRadius: 4 }
 
@@ -951,13 +952,15 @@
 '.h-screen': { height: Ti.UI.FILL }
 
 // Box Shadow ( iOS Only )
-'.shadow[platform=ios]': { viewShadowOffset: { x: 0, y: 1 }, viewShadowRadius: 1, viewShadowColor: '#66000000' }
-'.shadow-md[platform=ios]': { viewShadowOffset: { x: 0, y: 3 }, viewShadowRadius: 3, viewShadowColor: '#66000000' }
-'.shadow-lg[platform=ios]': { viewShadowOffset: { x: 0, y: 6 }, viewShadowRadius: 6, viewShadowColor: '#66000000' }
-'.shadow-xl[platform=ios]': { viewShadowOffset: { x: 0, y: 16 }, viewShadowRadius: 14, viewShadowColor: '#66000000' }
-'.shadow-2xl[platform=ios]': { viewShadowOffset: { x: 0, y: 22 }, viewShadowRadius: 20, viewShadowColor: '#66000000' }
-'.shadow-inner[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: 0, viewShadowColor: '#66000000' }
-'.shadow-outline[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: 0, viewShadowColor: '#66000000' }
+'.shadow-xs[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: 1, viewShadowColor: '#88000000' }
+'.shadow-sm[platform=ios]': { viewShadowOffset: { x: 0, y: 1 }, viewShadowRadius: 1, viewShadowColor: '#88000000' }
+'.shadow[platform=ios]': { viewShadowOffset: { x: 0, y: 2 }, viewShadowRadius: 2, viewShadowColor: '#88000000' }
+'.shadow-md[platform=ios]': { viewShadowOffset: { x: 0, y: 4 }, viewShadowRadius: 4, viewShadowColor: '#88000000' }
+'.shadow-lg[platform=ios]': { viewShadowOffset: { x: 0, y: 8 }, viewShadowRadius: 8, viewShadowColor: '#88000000' }
+'.shadow-xl[platform=ios]': { viewShadowOffset: { x: 0, y: 12 }, viewShadowRadius: 12, viewShadowColor: '#88000000' }
+'.shadow-2xl[platform=ios]': { viewShadowOffset: { x: 0, y: 16 }, viewShadowRadius: 16, viewShadowColor: '#88000000' }
+'.shadow-inner[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: null, viewShadowColor: null }
+'.shadow-outline[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: 2, viewShadowColor: '#88000000' }
 '.shadow-none[platform=ios]': { viewShadowOffset: { x: 0, y: 0 }, viewShadowRadius: null, viewShadowColor: null }
 
 // Opacity
