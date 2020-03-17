@@ -13,7 +13,7 @@
 	// Some reseting has to be so everything else work as intended.
 	convertedStyles += helpers.resetStyles();
 
-	// Colors
+	// Colors: text-, bg-, border-, placeholder-
 	convertedStyles += helpers.colors(defaultConfigTheme.colors);
 
 	// Object Position
