@@ -65,8 +65,6 @@
 /**
 	Styles
 */
-
-
 '.fab': {
 	font: { fontFamily: 'FontAwesome5Brands-Regular' }
 }
