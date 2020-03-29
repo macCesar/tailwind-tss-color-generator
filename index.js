@@ -5,9 +5,11 @@
 
 	const defaultConfigTheme = require('tailwindcss/stubs/defaultConfig.stub').theme;
 
-	let convertedStyles = '// Tailwind for Titanium\n// Converted by César Estrada\n';
+	let convertedStyles = '// Tailwind CSS: A utility-first CSS framework for rapidly building custom designs. ( https://tailwindcss.com )\n// Created by Adam Wathan ( https://twitter.com/adamwathan ).\n';
 
-	convertedStyles += '// https://github.com/macCesar/tailwind-tss-color-generator\n'
+	convertedStyles += '\n// Tailwind for Titanium\n// Converted by César Estrada\n';
+
+	convertedStyles += '// https://github.com/macCesar/tailwind-tss-color-generator\n';
 
 	// Reset Styles ( Preflight in Tailwind lingo )
 	// Some reseting has to be so everything else work as intended.
