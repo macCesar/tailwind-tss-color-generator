@@ -4,7 +4,7 @@
 
  *
  * .tss converted by César Estrada
- * To use FontAwesome in Buttons or Labels each class sets 'text' and 'title' properties.
+ * To use FontAwesome in Buttons AND Labels each class sets 'text' and 'title' properties.
  */
 
 /**
