@@ -121,20 +121,20 @@ npm start
 ```
 
 ## iOS Example
-![alt text](images/widths-heights.png "iOS Screen")
+![alt text](assets/images/widths-heights.png "iOS Screen")
 
 ## More Examples
 These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), created to showcase all the styles from the generated [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) file.
 
-![alt text](images/customer-support.png "iOS Screen - Customer Support")
+![alt text](assets/images/customer-support.png "iOS Screen - Customer Support")
 
-![alt text](images/private-villa.png "iOS Screen - Private Villa")
+![alt text](assets/images/private-villa.png "iOS Screen - Private Villa")
 
-![alt text](images/card-content.png "iOS Screen - Card Content")
+![alt text](assets/images/card-content.png "iOS Screen - Card Content")
 
-![alt text](images/projects.png "iOS Screen - Projects")
+![alt text](assets/images/projects.png "iOS Screen - Projects")
 
-![alt text](images/detached-house.png "iOS Screen - Detached House")
+![alt text](assets/images/detached-house.png "iOS Screen - Detached House")
 
 ## TODO
 I'll try to convert more properties.
