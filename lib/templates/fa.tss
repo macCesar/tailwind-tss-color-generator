@@ -1,15 +1,10 @@
-/*!
- * Font Awesome Free 5.13.0 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+// Font Awesome Free 5.13.0 by @fontawesome - https://fontawesome.com
+// License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
 
- *
- * .tss converted by César Estrada
- * To use FontAwesome in Buttons AND Labels each class sets 'text' and 'title' properties.
- */
+// .tss converted by César Estrada
+// To use FontAwesome in Buttons AND Labels each class sets 'text' and 'title' properties.
 
-/**
-	Font Awesome Sizes
-*/
+// Font Awesome Sizes
  '.fa-lg': {
 	font: { fontSize: 21 }
 }
@@ -62,9 +57,7 @@
 	font: { fontSize: 160 }
 }
 
-/**
-	Styles
-*/
+// Font Families
 '.fab': {
 	font: { fontFamily: 'FontAwesome5Brands-Regular' }
 }
@@ -81,5 +74,4 @@
 	font: { fontFamily: 'FontAwesome5Free-Solid' }
 }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
+// Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen readers do not read off random characters that represent icons
