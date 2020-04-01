@@ -1457,4 +1457,4 @@ const fontawesome = {
 	'fa-youtube': '\uf167',
 	'fa-youtube-square': '\uf431',
 	'fa-zhihu': '\uf63f',
-}
+};
