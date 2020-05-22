@@ -3,20 +3,27 @@
 
 	const helpers = require('./lib/helpers');
 
-	const defaultConfigTheme = require('tailwindcss/stubs/defaultConfig.stub').theme;
+	const defaultConfigTheme = require('tailwindcss/defaultTheme');
 
-	let convertedStyles = '// Tailwind CSS: A utility-first CSS framework for rapidly building custom designs. ( https://tailwindcss.com )\n// Created by Adam Wathan ( https://twitter.com/adamwathan ).\n';
+	const tailwindui = require('@tailwindcss/ui/index')({}, {}).config.theme;
 
-	convertedStyles += '\n// Tailwind for Titanium\n// Converted by César Estrada\n';
+	let convertedStyles = '// Tailwind CSS: A utility-first CSS framework for rapidly building custom designs. ( https://tailwindcss.com )\n';
+
+	convertedStyles += '// Tailwind UI Plugin ( https://www.npmjs.com/package/@tailwindcss/ui ).\n';
+
+	convertedStyles += '// Created by Adam Wathan ( https://twitter.com/adamwathan ).\n\n';
+
+	convertedStyles += '// Tailwind for Titanium\n// Converted by César Estrada\n';
 
 	convertedStyles += '// https://github.com/macCesar/tailwind-tss-color-generator\n';
+
 
 	// Reset Styles ( Preflight in Tailwind lingo )
 	// Some reseting has to be so everything else work as intended.
 	convertedStyles += helpers.resetStyles();
 
 	// Colors: text-, bg-, border-, placeholder-
-	convertedStyles += helpers.colors(defaultConfigTheme.colors);
+	convertedStyles += helpers.colors(tailwindui.colors);
 
 	// Object Position
 	convertedStyles += helpers.placement();
@@ -37,7 +44,7 @@
 	convertedStyles += helpers.borderRadius(defaultConfigTheme.borderRadius);
 
 	// Border Radius ( Extra Styles )
-	convertedStyles += helpers.borderRadiusExtraStyles(defaultConfigTheme.spacing);
+	convertedStyles += helpers.borderRadiusExtraStyles(tailwindui.spacing);
 
 	// Border Width
 	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);
@@ -46,15 +53,14 @@
 	convertedStyles += helpers.margin(defaultConfigTheme.spacing);
 
 	// Padding
-	convertedStyles += helpers.padding(defaultConfigTheme.spacing);
+	convertedStyles += helpers.padding(tailwindui.spacing);
 
 	// Sizing
-	convertedStyles += helpers.width(defaultConfigTheme.width(theme => ({ spacing: defaultConfigTheme.spacing })));
-
-	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: defaultConfigTheme.spacing })));
+	convertedStyles += helpers.width(defaultConfigTheme.width(theme => ({ spacing: tailwindui.spacing })));
+	convertedStyles += helpers.height(defaultConfigTheme.height(theme => ({ spacing: tailwindui.spacing })));
 
 	// Box Shadow ( iOS Only )
-	convertedStyles += helpers.shadow(defaultConfigTheme.boxShadow);
+	convertedStyles += helpers.shadow(tailwindui.boxShadow);
 
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);
