@@ -7,8 +7,11 @@
 // https://github.com/macCesar/tailwind-tss-color-generator
 
 // Reset Styles
-'Window': { backgroundColor: '#fff' }
+'Window': { backgroundColor: '#ffffff' }
 'ImageView[platform=ios]': { hires: true }
+'Label': { font: { fontSize: 17 } }
+'Button': { font: { fontSize: 15 } }
+'TextField': { font: { fontSize: 17 } }
 'View': { width: Ti.UI.SIZE, height: Ti.UI.SIZE }
 '.vertical': { layout: 'vertical' }
 '.horizontal': { layout: 'horizontal' }
@@ -17,6 +20,7 @@
 '.clip-enabled[platform=ios]': { clipMode: Ti.UI.iOS.CLIP_MODE_ENABLED }
 
 // Colors
+// color Property
 '.text-transparent': { color: 'transparent' }
 '.text-white': { color: '#ffffff' }
 '.text-black': { color: '#000000' }
@@ -131,6 +135,7 @@
 '.text-pink-800': { color: '#99154b' }
 '.text-pink-900': { color: '#751a3d' }
 
+// backgroundColor Property
 '.bg-transparent': { backgroundColor: 'transparent' }
 '.bg-white': { backgroundColor: '#ffffff' }
 '.bg-black': { backgroundColor: '#000000' }
@@ -245,6 +250,7 @@
 '.bg-pink-800': { backgroundColor: '#99154b' }
 '.bg-pink-900': { backgroundColor: '#751a3d' }
 
+// borderColor Property
 '.border-transparent': { borderColor: 'transparent' }
 '.border-white': { borderColor: '#ffffff' }
 '.border-black': { borderColor: '#000000' }
@@ -359,6 +365,7 @@
 '.border-pink-800': { borderColor: '#99154b' }
 '.border-pink-900': { borderColor: '#751a3d' }
 
+// hintTextColor Property
 '.placeholder-transparent': { hintTextColor: 'transparent' }
 '.placeholder-white': { hintTextColor: '#ffffff' }
 '.placeholder-black': { hintTextColor: '#000000' }
@@ -592,7 +599,7 @@
 '.rounded-9/12': { borderRadius: '75%' }
 '.rounded-10/12': { borderRadius: '83.333333%' }
 '.rounded-11/12': { borderRadius: '91.666667%' }
-'.rounded-full': { borderRadius: 800 }
+'.rounded-full': { borderRadius: '100%' }
 
 // Border Width
 '.border-0': { borderWidth: 0 }
@@ -931,7 +938,7 @@
 '.p-9/12': { padding: { top: '75%', right: '75%', bottom: '75%', left: '75%' } }
 '.p-10/12': { padding: { top: '83.333333%', right: '83.333333%', bottom: '83.333333%', left: '83.333333%' } }
 '.p-11/12': { padding: { top: '91.666667%', right: '91.666667%', bottom: '91.666667%', left: '91.666667%' } }
-'.p-full': { padding: { top: 1600, right: 1600, bottom: 1600, left: 1600 } }
+'.p-full': { padding: { top: '100%', right: '100%', bottom: '100%', left: '100%' } }
 '.py-0': { padding: { top: 0, bottom: 0 } }
 '.py-1': { padding: { top: 4, bottom: 4 } }
 '.py-2': { padding: { top: 8, bottom: 8 } }
@@ -993,7 +1000,7 @@
 '.py-9/12': { padding: { top: '75%', bottom: '75%' } }
 '.py-10/12': { padding: { top: '83.333333%', bottom: '83.333333%' } }
 '.py-11/12': { padding: { top: '91.666667%', bottom: '91.666667%' } }
-'.py-full': { padding: { top: 1600, bottom: 1600 } }
+'.py-full': { padding: { top: '100%', bottom: '100%' } }
 '.px-0': { padding: { right: 0, left: 0 } }
 '.px-1': { padding: { right: 4, left: 4 } }
 '.px-2': { padding: { right: 8, left: 8 } }
@@ -1055,7 +1062,7 @@
 '.px-9/12': { padding: { right: '75%', left: '75%' } }
 '.px-10/12': { padding: { right: '83.333333%', left: '83.333333%' } }
 '.px-11/12': { padding: { right: '91.666667%', left: '91.666667%' } }
-'.px-full': { padding: { right: 1600, left: 1600 } }
+'.px-full': { padding: { right: '100%', left: '100%' } }
 '.pt-0': { padding: { top: 0 } }
 '.pt-1': { padding: { top: 4 } }
 '.pt-2': { padding: { top: 8 } }
@@ -1117,7 +1124,7 @@
 '.pt-9/12': { padding: { top: '75%' } }
 '.pt-10/12': { padding: { top: '83.333333%' } }
 '.pt-11/12': { padding: { top: '91.666667%' } }
-'.pt-full': { padding: { top: 1600 } }
+'.pt-full': { padding: { top: '100%' } }
 '.pr-0': { padding: { right: 0 } }
 '.pr-1': { padding: { right: 4 } }
 '.pr-2': { padding: { right: 8 } }
@@ -1179,7 +1186,7 @@
 '.pr-9/12': { padding: { right: '75%' } }
 '.pr-10/12': { padding: { right: '83.333333%' } }
 '.pr-11/12': { padding: { right: '91.666667%' } }
-'.pr-full': { padding: { right: 1600 } }
+'.pr-full': { padding: { right: '100%' } }
 '.pb-0': { padding: { bottom: 0 } }
 '.pb-1': { padding: { bottom: 4 } }
 '.pb-2': { padding: { bottom: 8 } }
@@ -1241,7 +1248,7 @@
 '.pb-9/12': { padding: { bottom: '75%' } }
 '.pb-10/12': { padding: { bottom: '83.333333%' } }
 '.pb-11/12': { padding: { bottom: '91.666667%' } }
-'.pb-full': { padding: { bottom: 1600 } }
+'.pb-full': { padding: { bottom: '100%' } }
 '.pl-0': { padding: { left: 0 } }
 '.pl-1': { padding: { left: 4 } }
 '.pl-2': { padding: { left: 8 } }
@@ -1303,7 +1310,7 @@
 '.pl-9/12': { padding: { left: '75%' } }
 '.pl-10/12': { padding: { left: '83.333333%' } }
 '.pl-11/12': { padding: { left: '91.666667%' } }
-'.pl-full': { padding: { left: 1600 } }
+'.pl-full': { padding: { left: '100%' } }
 
 // Widths
 '.w-0': { width: 0 }
@@ -1341,7 +1348,6 @@
 '.w-1.5': { width: 6 }
 '.w-2.5': { width: 10 }
 '.w-3.5': { width: 14 }
-'.w-full': { width: 1600 }
 '.w-auto': { width: Ti.UI.SIZE }
 '.w-1/2': { width: '50%' }
 '.w-1/3': { width: '33.333333%' }
@@ -1408,7 +1414,6 @@
 '.h-1.5': { height: 6 }
 '.h-2.5': { height: 10 }
 '.h-3.5': { height: 14 }
-'.h-full': { height: 1600 }
 '.h-auto': { height: Ti.UI.SIZE }
 '.h-full': { height: '100%' }
 '.h-screen': { height: Ti.UI.FILL }
