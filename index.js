@@ -65,6 +65,9 @@
 	// Opacity
 	convertedStyles += helpers.opacity(defaultConfigTheme.opacity);
 
+	// Interactivity
+	convertedStyles += helpers.interactivity();
+
 	saveFile(convertedStyles);
 }());
 
