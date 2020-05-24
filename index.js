@@ -50,7 +50,7 @@
 	convertedStyles += helpers.borderWidth(defaultConfigTheme.borderWidth);
 
 	// Margin
-	convertedStyles += helpers.margin(defaultConfigTheme.spacing);
+	convertedStyles += helpers.margin(tailwindui.spacing);
 
 	// Padding
 	convertedStyles += helpers.padding(tailwindui.spacing);
