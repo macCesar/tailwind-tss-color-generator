@@ -31,6 +31,9 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 - ### Text Color
 	> For any element that uses the `'color'` property.
 
+- ### Vertical Align
+	> For any element that uses the `'verticalAlign'` property.
+
 ## Backgrounds
 - ### Background Color
 	> For any element that uses the `'backgroundColor'` property.
@@ -95,24 +98,24 @@ npm start
 ```xml
 <Alloy>
     <Window class="bg-orange-100">
-        <View class="h-auto mx-3 bg-blue-200 border-blue-600 rounded-lg border-4">
+        <View class="h-auto mx-3 bg-blue-200 border-4 border-blue-600 rounded-lg">
             <View class="h-auto" layout="vertical">
 
-                <Button class="mt-3 text-indigo-700 text-base">This is an Indigo Button</Button>
+                <Button class="mt-3 text-base text-indigo-700">This is an Indigo Button</Button>
 
-                <Button class="text-red-700 text-xl">This is an XL Red Button</Button>
+                <Button class="text-xl text-red-700">This is an XL Red Button</Button>
 
-                <Label class="text-blue-700 text-2xl">This is a 2XL Blue Label</Label>
+                <Label class="text-2xl text-blue-700">This is a 2XL Blue Label</Label>
 
-                <Button class="w-1/2 h-10 mt-4 ml-4 border-blue-600 border-2 bg-blue-500 text-base text-white rounded-lg">ML-4 Button</Button>
+                <Button class="w-1/2 h-10 mt-4 ml-4 text-base text-white bg-blue-500 border-2 border-blue-600 rounded-lg">ML-4 Button</Button>
 
-                <Button class="w-1/2 h-10 mt-4 mr-4 border-blue-800 border-2 bg-blue-700 text-base text-white rounded-lg">MR-4 Button</Button>
+                <Button class="w-1/2 h-10 mt-4 mr-4 text-base text-white bg-blue-700 border-2 border-blue-800 rounded-lg">MR-4 Button</Button>
 
-                <View class="mt-4 mb-1 h-auto" layout="horizontal">
-                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-25">opacity-25</Label>
-                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-50">opacity-50</Label>
-                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-75">opacity-75</Label>
-                    <Label class="w-1/4 h-8 text-xs text-white text-center bg-blue-900 opacity-100">opacity-100</Label>
+                <View class="h-auto mt-4 mb-1" layout="horizontal">
+                    <Label class="w-1/4 h-8 text-xs text-center text-white bg-blue-900 opacity-25">opacity-25</Label>
+                    <Label class="w-1/4 h-8 text-xs text-center text-white bg-blue-900 opacity-50">opacity-50</Label>
+                    <Label class="w-1/4 h-8 text-xs text-center text-white bg-blue-900 opacity-75">opacity-75</Label>
+                    <Label class="w-1/4 h-8 text-xs text-center text-white bg-blue-900 opacity-100">opacity-100</Label>
                 </View>
             </View>
         </View>
