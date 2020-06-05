@@ -40,6 +40,9 @@
 	// Text Align
 	convertedStyles += helpers.textAlign();
 
+	// Vertical Alignment
+	convertedStyles += helpers.verticalAlignment();
+
 	// Border Radius
 	convertedStyles += helpers.borderRadius(defaultConfigTheme.borderRadius);
 
