@@ -525,6 +525,9 @@
 '.text-right': { textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT }
 '.text-center': { textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER }
 '.text-justify': { textAlign: Ti.UI.TEXT_ALIGNMENT_JUSTIFY }
+'.text-vtop': { textAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_TOP }
+'.text-vcenter': { textAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_CENTER }
+'.text-vbottom': { textAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_BOTTOM }
 
 // Border Radius
 '.rounded-none': { borderRadius: 0 }
