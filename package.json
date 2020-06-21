@@ -16,7 +16,7 @@
 	"author": "César Estrada",
 	"license": "ISC",
 	"devDependencies": {
-		"@fortawesome/fontawesome-free": "^5.13.0",
+		"@fortawesome/fontawesome-free": "^5.13.1",
 		"@tailwindcss/ui": "^0.3.0",
 		"read-css": "^0.3.0",
 		"tailwindcss": "^1.4.6"

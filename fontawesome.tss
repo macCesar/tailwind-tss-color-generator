@@ -1,4 +1,4 @@
-// Font Awesome Free 5.13.0 by @fontawesome - https://fontawesome.com
+// Font Awesome Free 5.13.1 by @fontawesome - https://fontawesome.com
 // License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
 
 // .tss converted by César Estrada
@@ -494,6 +494,16 @@
 '.fa-bacon': {
 	text: '\uf7e5',
 	title: '\uf7e5'
+}
+
+'.fa-bacteria': {
+	text: '\uf959',
+	title: '\uf959'
+}
+
+'.fa-bacterium': {
+	text: '\uf95a',
+	title: '\uf95a'
 }
 
 '.fa-bahai': {
@@ -1791,6 +1801,11 @@
 	title: '\uf2a4'
 }
 
+'.fa-deezer': {
+	text: '\uf977',
+	title: '\uf977'
+}
+
 '.fa-delicious': {
 	text: '\uf1a5',
 	title: '\uf1a5'
@@ -2094,6 +2109,11 @@
 '.fa-edge': {
 	text: '\uf282',
 	title: '\uf282'
+}
+
+'.fa-edge-legacy': {
+	text: '\uf978',
+	title: '\uf978'
 }
 
 '.fa-edit': {
@@ -2914,6 +2934,11 @@
 '.fa-google-drive': {
 	text: '\uf3aa',
 	title: '\uf3aa'
+}
+
+'.fa-google-pay': {
+	text: '\uf979',
+	title: '\uf979'
 }
 
 '.fa-google-play': {
@@ -5286,6 +5311,11 @@
 	title: '\uf156'
 }
 
+'.fa-rust': {
+	text: '\uf97a',
+	title: '\uf97a'
+}
+
 '.fa-sad-cry': {
 	text: '\uf5b3',
 	title: '\uf5b3'
@@ -5544,6 +5574,11 @@
 '.fa-simplybuilt': {
 	text: '\uf215',
 	title: '\uf215'
+}
+
+'.fa-sink': {
+	text: '\uf96d',
+	title: '\uf96d'
 }
 
 '.fa-sistrix': {
@@ -6356,6 +6391,11 @@
 	title: '\uf3ff'
 }
 
+'.fa-tiktok': {
+	text: '\uf97b',
+	title: '\uf97b'
+}
+
 '.fa-times': {
 	text: '\uf00d',
 	title: '\uf00d'
@@ -6666,6 +6706,11 @@
 	title: '\uf13e'
 }
 
+'.fa-unsplash': {
+	text: '\uf97c',
+	title: '\uf97c'
+}
+
 '.fa-untappd': {
 	text: '\uf405',
 	title: '\uf405'
@@ -6814,6 +6859,11 @@
 '.fa-users-cog': {
 	text: '\uf509',
 	title: '\uf509'
+}
+
+'.fa-users-slash': {
+	text: '\uf973',
+	title: '\uf973'
 }
 
 '.fa-usps': {

@@ -1,5 +1,5 @@
 /**
-* Font Awesome Free 5.13.0 by @fontawesome - https://fontawesome.com
+* Font Awesome Free 5.13.1 by @fontawesome - https://fontawesome.com
 * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
 */
 
@@ -103,6 +103,8 @@ const fontawesome = {
 	'fa-backspace': '\uf55a',
 	'fa-backward': '\uf04a',
 	'fa-bacon': '\uf7e5',
+	'fa-bacteria': '\uf959',
+	'fa-bacterium': '\uf95a',
 	'fa-bahai': '\uf666',
 	'fa-balance-scale': '\uf24e',
 	'fa-balance-scale-left': '\uf515',
@@ -362,6 +364,7 @@ const fontawesome = {
 	'fa-dashcube': '\uf210',
 	'fa-database': '\uf1c0',
 	'fa-deaf': '\uf2a4',
+	'fa-deezer': '\uf977',
 	'fa-delicious': '\uf1a5',
 	'fa-democrat': '\uf747',
 	'fa-deploydog': '\uf38e',
@@ -423,6 +426,7 @@ const fontawesome = {
 	'fa-earlybirds': '\uf39a',
 	'fa-ebay': '\uf4f4',
 	'fa-edge': '\uf282',
+	'fa-edge-legacy': '\uf978',
 	'fa-edit': '\uf044',
 	'fa-egg': '\uf7fb',
 	'fa-eject': '\uf052',
@@ -587,6 +591,7 @@ const fontawesome = {
 	'fa-goodreads-g': '\uf3a9',
 	'fa-google': '\uf1a0',
 	'fa-google-drive': '\uf3aa',
+	'fa-google-pay': '\uf979',
 	'fa-google-play': '\uf3ab',
 	'fa-google-plus': '\uf2b3',
 	'fa-google-plus-g': '\uf0d5',
@@ -1061,6 +1066,7 @@ const fontawesome = {
 	'fa-ruler-vertical': '\uf548',
 	'fa-running': '\uf70c',
 	'fa-rupee-sign': '\uf156',
+	'fa-rust': '\uf97a',
 	'fa-sad-cry': '\uf5b3',
 	'fa-sad-tear': '\uf5b4',
 	'fa-safari': '\uf267',
@@ -1113,6 +1119,7 @@ const fontawesome = {
 	'fa-signature': '\uf5b7',
 	'fa-sim-card': '\uf7c4',
 	'fa-simplybuilt': '\uf215',
+	'fa-sink': '\uf96d',
 	'fa-sistrix': '\uf3ee',
 	'fa-sitemap': '\uf0e8',
 	'fa-sith': '\uf512',
@@ -1275,6 +1282,7 @@ const fontawesome = {
 	'fa-thumbs-up': '\uf164',
 	'fa-thumbtack': '\uf08d',
 	'fa-ticket-alt': '\uf3ff',
+	'fa-tiktok': '\uf97b',
 	'fa-times': '\uf00d',
 	'fa-times-circle': '\uf057',
 	'fa-tint': '\uf043',
@@ -1337,6 +1345,7 @@ const fontawesome = {
 	'fa-unlink': '\uf127',
 	'fa-unlock': '\uf09c',
 	'fa-unlock-alt': '\uf13e',
+	'fa-unsplash': '\uf97c',
 	'fa-untappd': '\uf405',
 	'fa-upload': '\uf093',
 	'fa-ups': '\uf7e0',
@@ -1367,6 +1376,7 @@ const fontawesome = {
 	'fa-user-times': '\uf235',
 	'fa-users': '\uf0c0',
 	'fa-users-cog': '\uf509',
+	'fa-users-slash': '\uf973',
 	'fa-usps': '\uf7e1',
 	'fa-ussunnah': '\uf407',
 	'fa-utensil-spoon': '\uf2e5',
