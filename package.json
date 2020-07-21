@@ -1,12 +1,15 @@
 {
 	"name": "tailwind-ts",
 	"version": "1.0.0",
-	"description": "Tailwind's Colors converter.",
-	"main": "index.js",
+	"description": "Tailwind's TSS Generator.",
+	"main": "./lib/build-tailwind.js",
 	"scripts": {
-		"start": "node index",
-		"fa-js": "node ./lib/fa-js-generator",
-		"fa-tss": "node ./lib/fa-tss-generator"
+		"start": "npm run tailwind-tss",
+		"fa-js": "node ./lib/build-fa-js",
+		"fa-tss": "node ./lib/build-fa-tss",
+		"tailwind-tss": "node ./lib/build-tailwind",
+		"fonts": "node ./lib/build-fonts-folder",
+		"all": "npm run fa-js && npm run fa-tss && npm run tailwind-tss && npm run fonts"
 	},
 	"repository": {
 		"type": "git",

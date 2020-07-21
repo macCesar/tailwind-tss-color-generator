@@ -16,10 +16,10 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 - ### Font Size
 	> For any element that uses the `'fontSize'` property.
 
-- ### Font Style ( iOS Only )
+- ### Font Style
 	> For any element that uses the `'fontStyle'` property.
 
-- ### Font Weight ( iOS Only )
+- ### Font Weight
 	> For any element that uses the `'fontWeight'` property.
 
 - ### Placeholder Color
@@ -63,16 +63,16 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 	> For any element that uses the `'height'` property.
 
 ## Effects
-- ### Box Shadow ( iOS Only )
+- ### Box Shadow
 	> For any element that uses the `'viewShadowOffset'`, `'viewShadowRadius'` and `'viewShadowColor'` properties.
 
 - ### Opacity
 	> For any element that uses the `'opacity'` property.
 
 ## Instalation
-Copy [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) to `/app/styles` directory, or add the contents manually.
+Copy the necessary files from `/app` folder to your `/app` folder.
 
-The provided `app.tss` is what the script generates. You can also compile it locally yourself.
+The provided `/app/styles/tailwind.tss` is what the script generates. You can also compile it locally yourself.
 
 ### Or you can compile it locally
 
@@ -85,14 +85,14 @@ The provided `app.tss` is what the script generates. You can also compile it loc
 npm install
 ```
 
-4. run the start script
+4. run the script
 ```bash
-npm start
+npm run tailwind-tss
 ```
 
-5. The main script will generate a new app.tss file.
+5. The main script will generate a new `tailwind.tss` file.
 
-6. Copy the content of that file into your proyect's app.tss file.
+6. Copy the content of that file into your proyect's `app.tss` file.
 
 ## Usage
 ```xml
@@ -124,20 +124,20 @@ npm start
 ```
 
 ## iOS Example
-![alt text](assets/images/widths-heights.png "iOS Screen")
+![alt text](app/assets/images/widths-heights.png "iOS Screen")
 
 ## More Examples
 These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), created to showcase all the styles from the generated [app.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app.tss) file.
 
-![alt text](assets/images/customer-support.png "iOS Screen - Customer Support")
+![alt text](app/assets/images/customer-support.png "iOS Screen - Customer Support")
 
-![alt text](assets/images/private-villa.png "iOS Screen - Private Villa")
+![alt text](app/assets/images/private-villa.png "iOS Screen - Private Villa")
 
-![alt text](assets/images/card-content.png "iOS Screen - Card Content")
+![alt text](app/assets/images/card-content.png "iOS Screen - Card Content")
 
-![alt text](assets/images/projects.png "iOS Screen - Projects")
+![alt text](app/assets/images/projects.png "iOS Screen - Projects")
 
-![alt text](assets/images/detached-house.png "iOS Screen - Detached House")
+![alt text](app/assets/images/detached-house.png "iOS Screen - Detached House")
 
 ## TODO
 I'll try to convert more properties.
