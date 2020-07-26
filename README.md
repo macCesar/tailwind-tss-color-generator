@@ -70,9 +70,9 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 	> For any element that uses the `'opacity'` property.
 
 ## Instalation
-Copy the content of `app/styles/tailwind.tss` file into your `/app/styles/app.tss` file.
+Copy the content of `app/styles/tailwind.tss` file into your `app/styles/app.tss` file.
 
-*The provided `/app/styles/tailwind.tss` is what the script generates. You can also compile it locally yourself.*
+*The provided `app/styles/tailwind.tss` is what the script generates. You can also compile it locally yourself.*
 
 ### Or you can compile it locally
 
