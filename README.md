@@ -6,7 +6,7 @@ This is my first attempt at creating this utility. For now it has a small set of
 I will gradually add more styles and try to match them as close as possible to Titanium's properties.
 
 ## What is this utility?
-In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in your [Titanium App](https://www.appcelerator.com/mobile-app-development-products/), you can use this small converter to generate an app.tss file with the following styles:
+In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in your [Titanium App](https://www.appcelerator.com/mobile-app-development-products/), you can use this small converter to generate a `tailwind.tss` file with the following styles:
 
 ## Layout
 - ### Top / Right / Bottom / Left
@@ -70,9 +70,9 @@ In case you need ( or want ) to use [Tailwind CSS](https://tailwindcss.com/) in 
 	> For any element that uses the `'opacity'` property.
 
 ## Instalation
-Copy the necessary files to your `/app/styles/` folder.
+Copy the content of `app/styles/tailwind.tss` file into your `/app/styles/app.tss` file.
 
-The provided `/app/styles/tailwind.tss` is what the script generates. You can also compile it locally yourself.
+*The provided `/app/styles/tailwind.tss` is what the script generates. You can also compile it locally yourself.*
 
 ### Or you can compile it locally
 
