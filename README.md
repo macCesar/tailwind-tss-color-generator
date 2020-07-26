@@ -160,14 +160,7 @@ npm run all
 ## More Examples
 These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), showcasing the styles from [tailwind.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app/styles/tailwind.tss) file.
 
-<img src="app/assets/images/login-form-3.png" width="375" alt="iOS Screen - Login Form" >
-<img src="app/assets/images/customer-support-3.png" width="375" alt="iOS Screen - Customer Support" >
-<img src="app/assets/images/politico-3.png" width="375" alt="iOS Screen - Politico" >
-<img src="app/assets/images/nike-3.png" width="375" alt="iOS Screen - Nike" >
-<img src="app/assets/images/private-villa-3.png" width="375" alt="iOS Screen - Private Villa" >
-<img src="app/assets/images/card-content-3.png" width="375" alt="iOS Screen - Card Content" >
-<img src="app/assets/images/projects-3.png" width="375" alt="iOS Screen - Projects" >
-<img src="app/assets/images/detached-house-3.png" width="375" alt="iOS Screen - Detached House" >
+<img src="app/assets/images/login-form-3.png" width="375" alt="iOS Screen - Login Form" > <img src="app/assets/images/customer-support-3.png" width="375" alt="iOS Screen - Customer Support" > <img src="app/assets/images/politico-3.png" width="375" alt="iOS Screen - Politico" > <img src="app/assets/images/nike-3.png" width="375" alt="iOS Screen - Nike" > <img src="app/assets/images/private-villa-3.png" width="375" alt="iOS Screen - Private Villa" > <img src="app/assets/images/card-content-3.png" width="375" alt="iOS Screen - Card Content" > <img src="app/assets/images/projects-3.png" width="375" alt="iOS Screen - Projects" > <img src="app/assets/images/detached-house-3.png" width="375" alt="iOS Screen - Detached House" >
 
 ## TODO
 I'll try to convert more properties.
