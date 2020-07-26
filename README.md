@@ -128,7 +128,7 @@ npm run all
 ## Usage
 ```xml
 <Alloy>
-    <Window class="bg-orange-100">
+    <Window class="bg-yellow-50">
         <View class="h-auto mx-3 bg-blue-200 border-4 border-blue-600 rounded-lg">
             <View class="h-auto" layout="vertical">
 
@@ -155,20 +155,26 @@ npm run all
 ```
 
 ## iOS Example
-![alt text](app/assets/images/widths-heights.png "iOS Screen")
+![alt text](app/assets/images/widths-heights-2.png "iOS Screen")
 
 ## More Examples
 These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), showcasing the styles from [tailwind.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app/styles/tailwind.tss) file.
 
-![iOS Screen - Customer Support](app/assets/images/customer-support.png "iOS Screen - Customer Support")
+![iOS Screen - Login Form](app/assets/images/customer-login-form-2 "iOS Screen - Login Form")
 
-![iOS Screen - Private Villa](app/assets/images/private-villa.png "iOS Screen - Private Villa")
+![iOS Screen - Customer Support](app/assets/images/customer-support-2.png "iOS Screen - Customer Support")
 
-![iOS Screen - Card Content](app/assets/images/card-content.png "iOS Screen - Card Content")
+![iOS Screen - Politico News](app/assets/images/politico-2.png "iOS Screen - Politico News")
 
-![iOS Screen - Projects](app/assets/images/projects.png "iOS Screen - Projects")
+![iOS Screen - Nike](app/assets/images/nike-2.png "iOS Screen - Nike")
 
-![iOS Screen - Detached House](app/assets/images/detached-house.png "iOS Screen - Detached House")
+![iOS Screen - Private Villa](app/assets/images/private-villa-2.png "iOS Screen - Private Villa")
+
+![iOS Screen - Card Content](app/assets/images/card-content-2.png "iOS Screen - Card Content")
+
+![iOS Screen - Projects](app/assets/images/projects-2.png "iOS Screen - Projects")
+
+![iOS Screen - Detached House](app/assets/images/detached-house-2.png "iOS Screen - Detached House")
 
 ## TODO
 I'll try to convert more properties.
