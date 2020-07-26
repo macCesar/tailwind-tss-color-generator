@@ -95,21 +95,18 @@ npm run tailwind-tss
 6. Copy the content of that file into your proyect's `app.tss` file.
 
 ## Other Useful Scripts
+This script will generate a new `fontawesome.tss` file inside of `app/styles/` folder.
+
 ```bash
 npm run fa-tss
 ```
-This script will generate a new `fontawesome.tss` file inside of `app/styles/` folder.
 
+This script will generate a new `fontawesome.js` file inside of `app/lib/` folder.
 
 ```bash
 npm run fa-js
 ```
-This script will generate a new `fontawesome.js` file inside of `app/lib/` folder.
 
-
-```bash
-npm run fonts
-```
 This script will copy the following [Font Awesome Fonts](https://github.com/FortAwesome/Font-Awesome/tree/master/js-packages/%40fortawesome/fontawesome-free/webfonts) to your `app/assets/fonts` folder. With their names fixed to work with your iOS or Android Apps.
 
 > FontAwesome5Brands-Regular.ttf
@@ -118,12 +115,15 @@ This script will copy the following [Font Awesome Fonts](https://github.com/Fort
 >
 > FontAwesome5Free-Solid.ttf
 
+```bash
+npm run fonts
+```
+
+Run all provided scripts.
 
 ```bash
 npm run all
 ```
-Run all provided scripts.
-
 
 ## Usage
 ```xml
