@@ -160,7 +160,7 @@ npm run all
 ## More Examples
 These examples are from the accompanying [Titanium App](https://github.com/macCesar/tailwind.tss-sample-app), showcasing the styles from [tailwind.tss](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app/styles/tailwind.tss) file.
 
-![iOS Screen - Login Form](app/assets/images/customer-login-form-2 "iOS Screen - Login Form")
+![iOS Screen - Login Form](app/assets/images/login-form-2.png "iOS Screen - Login Form")
 
 ![iOS Screen - Customer Support](app/assets/images/customer-support-2.png "iOS Screen - Customer Support")
 
