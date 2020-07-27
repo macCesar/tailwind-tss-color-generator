@@ -17,7 +17,7 @@ purgetss [ -d, --dev ] [ --vendor ]
 
 4. **And as simple as that, you’ll have a purged file with only the styles used in your App.**
 
-## Important Notice
+### Important Notice!
 > The script will back up your current `app.tss` file into `_app.tss`.
 > 
 > From now on, please use this file to add, update or delete your custom classes.
