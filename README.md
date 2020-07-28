@@ -15,7 +15,7 @@ Please checkout my new [`purgeTSS`](https://github.com/macCesar/purgeTSS) CLI.
 purgetss [ -d, --dev ] [ --vendor ]
 ```
 
-4. **And as simple as that, you’ll have a purged file with only the styles used in your App.**
+4. **And as simple as that, you’ll have a purged `app.tss` file with only the styles used in your App.**
 
 ### Important Notice!
 > When you run `purgeTSS` for the first time it will back up your current `app.tss` file into `_app.tss`.
