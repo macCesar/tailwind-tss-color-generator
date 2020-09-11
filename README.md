@@ -12,7 +12,7 @@ Please checkout my new [`purgeTSS`](https://github.com/macCesar/purgeTSS) CLI.
 
 3. Run `purgetss` inside your project’s root folder before compiling your App.
 ```bash
-purgetss [ -d, --dev ] [ --vendor ]
+purgetss
 ```
 
 4. **And as simple as that, you’ll have a purged `app.tss` file with only the styles used in your App.**
