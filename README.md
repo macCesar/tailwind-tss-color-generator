@@ -8,7 +8,7 @@ Please checkout my new [`purgeTSS`](https://github.com/macCesar/purgeTSS) CLI.
 [sudo] npm i -g purgetss
 ```
 
-2. Use any [`tailwind.tss`](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app/styles/tailwind.tss) or [`fontawesome.tss`](https://github.com/macCesar/tailwind-tss-color-generator/blob/master/app/styles/fontawesome.tss) classes in your views.
+2. Use any [tailwind.tss](https://github.com/macCesar/purgeTSS/blob/master/tss/tailwind.tss), [fontawesome.tss](https://github.com/macCesar/purgeTSS/blob/master/tss/fontawesome.tss), [materialicons.tss](https://github.com/macCesar/purgeTSS/blob/master/tss/materialicons.tss) and [lineicons.tss](https://github.com/macCesar/purgeTSS/blob/master/tss/lineicons.tss) classes in your views.
 
 3. Run `purgetss` inside your project’s root folder before compiling your App.
 ```bash
